@@ -11,3 +11,5 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 Each folder holds the coordinates, an exact rational certificate, before/after figures, a proof report and three exact checkers. To check a packing, run `python3 -B verify_all.py` in its folder (Python 3.10 or later, standard library only).
 
 The numerical search, rational certificate construction, checking and visualization were performed with OpenAI Codex agents under the direction of Joost de Winter.
+
+All files are released under the MIT licence (see `LICENSE`).
