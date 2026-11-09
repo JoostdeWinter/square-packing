@@ -13,4 +13,6 @@ The folders for n = 227, 229 and 260 hold the coordinates, an exact rational cer
 
 For n = 227, 229 and 260, the numerical search, rational certificate construction, checking and visualization were performed with OpenAI Codex agents under the direction of Joost de Winter. For n = 199, this work was performed with Claude (Anthropic) under the direction of Joost de Winter.
 
+The folder [above324](above324/) holds nine further packings for n between 413 and 867, each with a smaller side than the best value recorded by the Squares Project on 9 November 2026. This work was performed with Claude (Anthropic) under the direction of Joost de Winter.
+
 All files are released under the MIT licence (see `LICENSE`).
