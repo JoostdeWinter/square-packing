@@ -15,4 +15,6 @@ For n = 227, 229 and 260, the numerical search, rational certificate constructio
 
 The folder [above324](above324/) holds fifteen further packings for n between 413 and 910, each with a smaller side than the best value recorded by the Squares Project on 9 November 2026. This work was performed with Claude (Anthropic) under the direction of Joost de Winter.
 
+The folder [above324_refined](above324_refined/) holds sixteen packings for n between 632 and 989 that refine public packings of the Kaggle competition "Squares in Squares". This work was performed with Claude (Anthropic) under the direction of Joost de Winter.
+
 All files are released under the MIT licence (see `LICENSE`).
