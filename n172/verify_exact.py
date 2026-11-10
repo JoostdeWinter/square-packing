@@ -4,7 +4,7 @@ Checks, in rational arithmetic:
   1. every square has an exact unit edge direction (cos^2 + sin^2 = 1);
   2. every square lies inside [0, side] x [0, side];
   3. no two squares share interior points (separating-axis test on all pairs);
-  4. the side lies within 1e-98 above the real root near 13.6147 of
+  4. the side lies within 1e-318 above the real root near 13.6147 of
      62x^5 - 4116x^4 + 107933x^3 - 1397031x^2 + 8918035x - 22427977.
 """
 import json
@@ -56,12 +56,12 @@ def main(path="n172_exact.json"):
             v = v * x + c
         return v
 
-    lo = side - F(1, 10 ** 98)
-    assert p(lo) * p(side) < 0, "side is not within 1e-98 of the root"
+    lo = side - F(1, 10 ** 318)
+    assert p(lo) * p(side) < 0, "side is not within 1e-318 of the root"
     print(f"OK: 172 unit squares, pairwise interior-disjoint ({pairs} close pairs tested), inside a square of side")
     digits = str(side.numerator * 10 ** 40 // side.denominator)
     print(f"    {digits[:-40]}.{digits[-40:]}... (exact rational in the file),")
-    print("    which is less than 1e-98 above the root of the stated quintic.")
+    print("    which is less than 1e-318 above the root of the stated quintic.")
 
 
 if __name__ == "__main__":
