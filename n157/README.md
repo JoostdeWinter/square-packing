@@ -34,4 +34,4 @@ The Kaggle competition "Squares in Squares" has a per-puzzle leaderboard that li
 
 ## Method and AI assistance
 
-The derivation, optimization, high-precision solution, rational certificate, checking and figure were produced with Claude (Anthropic) under the direction of Joost de Winter.
+The derivation, optimization, high-precision solution, rational certificate, checking and figure were produced with Claude Fable 5.2 (Anthropic) under the direction of Joost de Winter.
