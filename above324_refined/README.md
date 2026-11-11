@@ -31,9 +31,9 @@ Twenty-two packings of n unit squares in a square. Each has a smaller side than 
 
 The starting packings come from the file `data_out/best_certified_22.2226173_before_clearance.csv` in the repository `Samanyu-dev/squares_in_squares` at commit 53551d7. That file is a per-puzzle merge of public Kaggle notebooks and datasets. Its README credits Chris Deotte, lightningv08, alexchilton, kirilltym, malyshevdanil, prvsiyan, busyaprime, nilanjansaha123, jazivxt and the register of Francisco Couzo. The file does not name the author of each packing.
 
-All 1000 packings of that file were tested for a remaining descent direction with a linear program on the contact constraints. Following the descent to convergence improved twenty-two packings by at least 1e-6. These are the values in the table. The arrangements of the squares are unchanged.
+All 1000 packings of that file were tested for a remaining descent direction with a linear program on the contact constraints. The descent was followed to convergence, starting with the packings that showed the strongest descent directions. A first run gave sixteen values that are more than 1e-7 below the best public competition value. A second run on the next packings gave six more values with a gain above 1e-6. These twenty-two values are in the table. Eighteen further packings improved by less than 1e-6 and are not listed. The arrangements of the squares are unchanged.
 
-Each certificate carries a margin of about 5e-9 above the numerical optimum.
+Each certificate carries a margin above the numerical optimum, which is the floating-point result of the local optimization. When a certificate is written, every centre and the side are multiplied by 1 + 2e-10 + 4v, where v is the largest constraint violation left in the floating-point packing, and the side is then rounded up at the 13th decimal. The margin is 5.0e-9 to 6.4e-9 for eighteen certificates. For the other four it is estimated from the clearances in the certificates: 8.4e-9 for n = 754, 1.1e-8 for n = 637 and 684, and 4.6e-8 for n = 805.
 
 ## Files
 
