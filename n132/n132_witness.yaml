@@ -1,5 +1,10 @@
+softschema:
+  contract: packing.squares:Witness/v2
+  schema: https://github.com/jlevy/squares/blob/main/packing/witnesses/witness.schema.yaml
+  envelope: witness
+  status: enforced
 witness:
-  id: W-n132-de-Winter
+  id: W-n132-de-winter
   n: 132
   side: 29940120959008518809321792381784194561366154929588804750577800289555120369865408680444352359453817994064394036272845081533643558510907037866820298055603899602933748036672382028267459576409124073981009540056142854406780197934128275523774369426111643883528289742078410057825766433892095556050609840605731079359109/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   square_size: '1'
@@ -10,6 +15,10 @@ witness:
     origin: lower-left
     axes: x-right-y-up
     angle_unit: not-applicable
+  claim:
+    coordinate_provenance: verified
+    method: exact-algebraic
+    limitations: Exact rational coordinates of a packing of 132 unit squares. verify_exact.py checks in rational arithmetic that every edge direction is a unit vector, that every square lies in the container and that all pairs of squares have disjoint interiors. The file proves an upper bound for the side. It makes no statement on optimality.
   squares:
   - id: 1
     center:

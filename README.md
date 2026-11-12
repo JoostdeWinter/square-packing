@@ -20,4 +20,6 @@ The folder [above324](above324/) holds fifteen further packings for n between 41
 
 The folder [above324_refined](above324_refined/) holds twenty-two packings for n between 597 and 991 that refine public packings of the Kaggle competition "Squares in Squares". This work was performed with Claude (Anthropic) under the direction of Joost de Winter.
 
+The folder [method_n132_n157](method_n132_n157/) holds the code that produced the packings for n = 132 and 157: the growth step, the optimization model, the high-precision solutions and two further checks.
+
 All files are released under the MIT licence (see `LICENSE`).

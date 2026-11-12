@@ -27,10 +27,12 @@ The Kaggle competition "Squares in Squares" has a per-puzzle leaderboard that li
 ## Files
 
 - `n157_exact.json`: exact rational coordinates (centre and unit edge direction of each square) and the side.
-- `n157_witness.yaml`: the same packing in the Squares Project witness format (center-basis, rational).
+- `n157_witness.yaml`: the same packing as a Squares Project witness file (Witness/v2, center-basis, rational).
 - `n157_record.png`: figure. Tilted squares are yellow.
 - `verify_exact.py`: exact checker. Run `python3 -B verify_exact.py` (Python 3.10 or later, standard library only).
 - `SHA256SUMS`: checksums of the files above.
+
+The code that produced this packing is in [method_n132_n157](../method_n132_n157/).
 
 ## Method and AI assistance
 
