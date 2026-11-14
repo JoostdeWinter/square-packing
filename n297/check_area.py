@@ -14,6 +14,11 @@ from fractions import Fraction as F
 
 HALF = F(1, 2)
 
+def require(ok, message):
+    """Stop with an error when a check fails. Unlike assert, this also runs under python -O."""
+    if not ok:
+        raise SystemExit("FAILED: " + message)
+
 
 def polygon(q):
     cx, cy, c, s = q
@@ -57,12 +62,12 @@ def main(path=None):
     n = data["n"]
     side = F(data["side"])
     squares = [tuple(F(v) for v in q) for q in data["squares"]]
-    assert len(squares) == n, "wrong number of squares"
+    require(len(squares) == n, "wrong number of squares")
     polys = [polygon(q) for q in squares]
     for i, q in enumerate(squares):
-        assert q[2] ** 2 + q[3] ** 2 == 1, f"square {i}: direction is not a unit vector"
-        assert area(polys[i]) == 1, f"square {i}: area is not 1"
-        assert all(0 <= x <= side and 0 <= y <= side for x, y in polys[i]), f"square {i}: outside the container"
+        require(q[2] ** 2 + q[3] ** 2 == 1, f"square {i}: direction is not a unit vector")
+        require(area(polys[i]) == 1, f"square {i}: area is not 1")
+        require(all(0 <= x <= side and 0 <= y <= side for x, y in polys[i]), f"square {i}: outside the container")
     order = sorted(range(n), key=lambda i: squares[i][0])
     pairs = 0
     for a in range(n):
@@ -77,7 +82,7 @@ def main(path=None):
                 continue
             pairs += 1
             common = clip(polys[i], polys[j])
-            assert len(common) < 3 or area(common) == 0, f"squares {i} and {j} overlap"
+            require(len(common) < 3 or area(common) == 0, f"squares {i} and {j} overlap")
     print(f"OK: {n} unit squares inside a square of side {float(side):.15f}; "
           f"{pairs} close pairs, every intersection has area exactly 0")
 

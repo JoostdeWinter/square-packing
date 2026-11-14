@@ -7,7 +7,7 @@ H = F(1, 2)
 def up(x, y): return (F(x) + H, F(y) + H, F(1), F(0))       # axis-aligned square with lower left corner (x, y)
 def write(n, side, sq):
     assert len(sq) == n
-    json.dump({"n": n, "side": str(side), "square_size": "1", "format": "each square: [center_x, center_y, cos, sin] as exact rationals; (cos, sin) is the unit direction of one edge", "squares": [[str(v) for v in q] for q in sq]}, open('n%d_exact.json' % n, 'w'), indent=0)
+    json.dump({"n": n, "side": str(side), "square_size": "1", "format": "box [0, side] x [0, side], origin at the lower left corner; each square: [center_x, center_y, cos, sin] as exact rationals; (cos, sin) is the unit direction of one edge", "squares": [[str(v) for v in q] for q in sq]}, open('n%d_exact.json' % n, 'w'), indent=0)
 # 332: side S + 1, 297 packing moved by (1, 1), 18 squares along the bottom, 17 along the left wall
 sq = [(x + 1, y + 1, c, s) for x, y, c, s in base] + [up(i, 0) for i in range(18)] + [up(0, 1 + i) for i in range(17)]
 write(332, S + 1, sq)

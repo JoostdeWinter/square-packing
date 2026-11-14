@@ -16,7 +16,7 @@ witness:
     axes: x-right-y-up
     angle_unit: not-applicable
   claim:
-    coordinate_provenance: verified
+    coordinate_provenance: reported
     method: exact-algebraic
     limitations: Exact rational coordinates of a packing of 132 unit squares. verify_exact.py checks in rational arithmetic that every edge direction is a unit vector, that every square lies in the container and that all pairs of squares have disjoint interiors. The file proves an upper bound for the side. It makes no statement on optimality.
   squares:

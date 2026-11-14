@@ -12,13 +12,14 @@ Two packings of n unit squares in a square, each with a smaller side than the be
 Both packings are the packing of 297 squares in [n297](../n297/) plus axis-aligned squares.
 
 - n = 332: the 297 packing moved by (1, 1), 18 squares along the bottom wall and 17 squares along the left wall.
-- n = 409: the 297 packing moved by (3, 3), two arms of 3 x 17 squares against the far walls, and 10 squares in the corner. Five of these 10 squares lie in a square of side 2.72, with one of them tilted by 45 degrees.
+- n = 409: the 297 packing moved by (3, 3), two arms of 3 x 17 squares against the far walls, and 10 squares in the corner. Five of these 10 squares lie in a square of side 2.72. One of them is tilted by about 45 degrees (44.999964 degrees, edge direction (803761/1136689, 803760/1136689)).
 
-The recorded values for 332 and 409 are built in the same way from the record T-174 for n = 297. The credit stated in [n297](../n297/) applies here as well: the layout is that of T-174 (packing by Francisco Couzo, exact optimum by Evan Daniel, refinement by PingYou Ltd).
+The value recorded for 332 before this packing was T-174 plus the same 35 squares. The value recorded for 409 (20.740417290708, Kirill Tymchishin) lies 3.16e-9 above T-174 + 3 and places its squares differently, so the packing for 409 here shares only the idea of extending a packing of 297 squares. The credit stated in [n297](../n297/) applies here as well: the layout is that of T-174 (packing by Francisco Couzo, exact optimum by Evan Daniel, refinement by PingYou Ltd).
 
 ## Files
 
-- `n332_exact.json`, `n409_exact.json`: exact rational coordinates (centre and unit edge direction of each square) and the side.
+- `n332_exact.json`, `n409_exact.json`: exact rational coordinates (centre and unit edge direction of each square) and the side. The box is [0, side] x [0, side] with the origin at the lower left corner.
+- `n332_witness.yaml`, `n409_witness.yaml`: the same packings as Squares Project witness files (Witness/v2, center-basis, rational).
 - `build.py`: writes both files from `../n297/n297_exact.json`.
 - `verify_exact.py`, `check_area.py`: two exact checkers with separate code. Run `python3 -B verify_exact.py n332_exact.json` and `python3 -B check_area.py n332_exact.json` (Python 3.10 or later, standard library only).
 - `SHA256SUMS`: checksums of the files above.
@@ -37,6 +38,6 @@ The recorded values for 332 and 409 are built in the same way from the record T-
 
 **Not done.** The certificates have not been checked with the tools of the Squares Project.
 
-**Lineage and credit.** The packing of 297 squares in this repository, which builds on T-174. The added squares follow the construction of the recorded values for 332 and 409.
+**Lineage and credit.** The packing of 297 squares in this repository, which builds on T-174. The added squares at 332 are those of the row it supersedes. The corner arrangement at 409 is my own.
 
 **AI assistance.** The construction and the checks were produced with Claude Fable 5.2 (Anthropic) under my direction.

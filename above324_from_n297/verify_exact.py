@@ -16,6 +16,11 @@ from itertools import combinations
 
 HALF = F(1, 2)
 
+def require(ok, message):
+    """Stop with an error when a check fails. Unlike assert, this also runs under python -O."""
+    if not ok:
+        raise SystemExit("FAILED: " + message)
+
 
 def corners(q):
     cx, cy, c, s = q
@@ -41,11 +46,11 @@ def main(path=None):
     side = F(data["side"])
     squares = [tuple(F(v) for v in q) for q in data["squares"]]
     n = data["n"]
-    assert len(squares) == n, "wrong number of squares"
+    require(len(squares) == n, "wrong number of squares")
     cs = [corners(q) for q in squares]
     for i, q in enumerate(squares):
-        assert q[2] ** 2 + q[3] ** 2 == 1, f"square {i}: direction is not a unit vector"
-        assert all(0 <= x <= side and 0 <= y <= side for x, y in cs[i]), f"square {i}: outside the container"
+        require(q[2] ** 2 + q[3] ** 2 == 1, f"square {i}: direction is not a unit vector")
+        require(all(0 <= x <= side and 0 <= y <= side for x, y in cs[i]), f"square {i}: outside the container")
     pairs = 0
     for i, j in combinations(range(n), 2):
         dx = squares[i][0] - squares[j][0]
@@ -53,7 +58,7 @@ def main(path=None):
         if dx * dx + dy * dy >= 2:      # centres at least sqrt(2) apart: unit squares cannot overlap
             continue
         pairs += 1
-        assert separated(squares[i], cs[i], squares[j], cs[j]), f"squares {i} and {j} overlap"
+        require(separated(squares[i], cs[i], squares[j], cs[j]), f"squares {i} and {j} overlap")
     digits = str(side.numerator * 10 ** 40 // side.denominator)
     print(f"OK: {n} unit squares, pairwise interior-disjoint ({pairs} close pairs tested), inside a square of side")
     print(f"    {digits[:-40]}.{digits[-40:]}... (exact rational in the file)")
