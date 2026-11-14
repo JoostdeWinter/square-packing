@@ -16,7 +16,7 @@ The side of the local optimum is the real root near 14.6147 of the irreducible p
 
     62x^5 - 4426x^4 + 125017x^3 - 1746146x^2 + 12052670x - 32855154.
 
-The optimality conditions of the core were solved to 130 digits. All 734 load-bearing or forced contacts close exactly and all other gaps stay open. The polynomial was identified from 108 digits and reproduces the side to 129 digits. The side in the rational certificate is 1.4e-99 above the root.
+The optimality conditions of the core were solved to 130 digits. The polynomial was identified from 108 digits and reproduces the side to 129 digits. The side in the rational certificate is 1.4e-99 above the root.
 
 The certificate proves the upper bound s(199) <= side. The local optimality statement rests on the numerical solution described above and has no formal proof.
 

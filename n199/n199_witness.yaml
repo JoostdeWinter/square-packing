@@ -1,5 +1,10 @@
+softschema:
+  contract: packing.squares:Witness/v2
+  schema: https://github.com/jlevy/squares/blob/main/packing/witnesses/witness.schema.yaml
+  envelope: witness
+  status: enforced
 witness:
-  id: W-n199-de-Winter-locally-optimal
+  id: W-n199-de-winter
   n: 199
   side: 1461468985328358057514628890087947061618972730200175769881498026931092424681356737007190165664341823168492765447/100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   square_size: '1'
@@ -10,7 +15,10 @@ witness:
     origin: lower-left
     axes: x-right-y-up
     angle_unit: not-applicable
-  notes: Side is 1.4e-99 above the exact local optimum, the real root near 14.6147 of 62x^5-4426x^4+125017x^3-1746146x^2+12052670x-32855154.
+  claim:
+    coordinate_provenance: verified
+    method: exact-algebraic
+    limitations: Exact rational coordinates of a packing of 199 unit squares. verify_exact.py checks in rational arithmetic that every edge direction is a unit vector, that every square lies in the container and that all pairs of squares have disjoint interiors. The file proves an upper bound for the side. It makes no statement on optimality.
   squares:
   - id: 1
     center:
