@@ -36,6 +36,7 @@ The per-puzzle leaderboard of the Kaggle competition "Squares in Squares" listed
 - `n297_before_after.png`: figure of the Squares Project record and the new packing.
 - `verify_exact.py`: exact checker. Run `python3 -B verify_exact.py` (Python 3.10 or later, standard library only).
 - `check_area.py`: second exact checker with separate code. It clips each close pair of squares and requires an intersection of area 0. Run `python3 -B check_area.py`.
+- `REGISTRATION.md`: the registration request for the Squares Project, in the form of its template.
 - `SHA256SUMS`: checksums of the files above.
 
 ## Method and AI assistance
