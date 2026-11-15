@@ -33,4 +33,4 @@ A public merged submission for the Kaggle competition "Squares in Squares" (best
 
 ## Method and AI assistance
 
-The local search that found the arrangement was run with OpenAI Codex (GPT-6 Astra). The local optimization, rational certificate, checking and figures were produced with Claude Fable 5.2 (Anthropic). Both worked under the direction of Joost de Winter.
+The local search that found the arrangement was run with GPT-6.1 Sol Max (OpenAI). The local optimization, rational certificate, checking and figures were produced with Claude Fable 5.2 (Anthropic). Both worked under the direction of Joost de Winter.

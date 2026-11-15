@@ -26,4 +26,4 @@ A figure of T-303 and the new packing side by side is in `n90/n90_before_after.p
 
 **Lineage and credit.** The packing starts from T-303 by jazivxt (issue #989), which is built from a crop of my packing for n = 157 (T-293). A local search changed small groups of squares in position and angle, optimized the packing again after each change, and kept the changes that gave a smaller side. T-303 has 49 leaning squares and the new packing has 37. Seven squares in the upper left of the cluster have a new angle, and five squares along the left wall are axis-aligned. Please credit the new bound to Joost de Winter, as an improvement of jazivxt's packing.
 
-**AI assistance.** The local search that found the arrangement was run with OpenAI Codex (GPT-6 Astra). The local optimization, rational certificate, checks and figures were produced with Claude Fable 5.2 (Anthropic). Both worked under my direction.
+**AI assistance.** The local search that found the arrangement was run with GPT-6.1 Sol Max (OpenAI). The local optimization, rational certificate, checks and figures were produced with Claude Fable 5.2 (Anthropic). Both worked under my direction.
