@@ -6,7 +6,7 @@ This file follows the result registration template of the Squares Project (`.git
 
 **Claim.** A packing of 90 unit squares in a square of side 9.994038766610 (rounded up at 12 places). The exact rational side is 99940387666098521323/10000000000000000000. The record holds 9.998277166926 for n = 90 (T-303) at commit 91acf2022a69531da3421889810a3bc53aa89753 of jlevy/squares. The gain is 0.00424.
 
-**Certificate.** Exact rational coordinates of all 90 squares and the side, in the folder `n90` of https://github.com/JoostdeWinter/square-packing at commit 64d5ee762a1159248d375973fb33825d51da637d. Later commits leave these files unchanged.
+**Certificate.** Exact rational coordinates of all 90 squares and the side, in the folder `n90` of https://github.com/JoostdeWinter/square-packing at commit fa53fb0d734fbf438bcfb73c1434a15894bb2bc5. Later commits leave these files unchanged.
 
 - `n90/n90_exact.json` (centre and unit edge direction of each square)
 - `n90/n90_witness.yaml` (the same packing as a Witness/v2 file, corners, rational)
