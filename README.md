@@ -4,7 +4,7 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 
 | n | Side, rounded up | Squares Project value | Date |
 | ---: | ---: | ---: | :--- |
-| [90](n90/) | 9.994038857546 | 9.998277166926 | 15 November 2026 |
+| [90](n90/) | 9.994038766610 | 9.998277166926 | 15 November 2026 |
 | [132](n132/) | 11.976048383604 | 11.9856801988458088 | 11 November 2026 |
 | [157](n157/) | 12.993302611344 | 13 | 11 November 2026 |
 | [172](n172/) | 13.614689853284 | 13.6146898532862152 | 10 November 2026 |
