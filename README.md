@@ -5,7 +5,7 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 | n | Side, rounded up | Squares Project value | Date |
 | ---: | ---: | ---: | :--- |
 | [90](n90/) | 9.994038766610 | 9.998277166926 | 15 November 2026 |
-| [127](n127/) | 11.800793726616 | 11.8017538904864874 | 17 November 2026 |
+| [127](n127/) | 11.800793726615 | 11.8017538904864874 | 17 November 2026 |
 | [132](n132/) | 11.976048383604 | 11.9856801988458088 | 11 November 2026 |
 | [157](n157/) | 12.993302611344 | 13 | 11 November 2026 |
 | [172](n172/) | 13.614689853284 | 13.6146898532862152 | 10 November 2026 |
@@ -14,6 +14,8 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 | [229](n229/) | 15.650174756949 | 15.65685424949238 | 17 October 2026 |
 | [260](n260/) | 16.645778804182 | 16.65685424949238 | 17 October 2026 |
 | [262](n262/) | 16.699693441904 | 16.70710678118655 | 16 November 2026 |
+| [268](n268/) | 16.870013850405 | 16.87202984908445 | 17 November 2026 |
+| [270](n270/) | 16.927314216352 | 16.928148603342855 | 17 November 2026 |
 | [292](n292/) | 17.590016442847 | 17.5913781454976982 | 16 November 2026 |
 | [295](n295/) | 17.699693441716 | 17.70423279073603036 | 16 November 2026 |
 | [297](n297/) | 17.739455558289 | 17.7404172875438019 | 14 November 2026 |
@@ -24,7 +26,7 @@ For n = 227, 229 and 260, the numerical search, rational certificate constructio
 
 For n = 90, the local search was run with GPT-6.1 Sol Max (OpenAI), and the local optimization, rational certificate, checking and figures were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter.
 
-For n = 127, the search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The arrangement comes from the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras.
+For n = 127, 268 and 270, the search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The folders name the public compilations the arrangements come from.
 
 For n = 292, the construction and the search were run with Gemini Carbon (Google), and the checking, witness file and figure were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter. The tilted ribbon of this packing extends the ribbon of David W. Cantrell's packing of 146 squares.
 
