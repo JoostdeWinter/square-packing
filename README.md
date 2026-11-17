@@ -24,7 +24,7 @@ For n = 227, 229 and 260, the numerical search, rational certificate constructio
 
 For n = 90, the local search was run with GPT-6.1 Sol Max (OpenAI), and the local optimization, rational certificate, checking and figures were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter.
 
-For n = 127, the search, optimization and rational certificate were produced with ChatGPT (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The arrangement comes from the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras.
+For n = 127, the search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The arrangement comes from the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras.
 
 For n = 292, the construction and the search were run with Gemini Carbon (Google), and the checking, witness file and figure were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter. The tilted ribbon of this packing extends the ribbon of David W. Cantrell's packing of 146 squares.
 

@@ -28,4 +28,4 @@ The certificate proves the upper bound s(127) <= side. It makes no statement on 
 
 ## Method and AI assistance
 
-The search, optimization and rational certificate were produced with ChatGPT (OpenAI). The repository files, checks and figure were produced with Claude (Anthropic). Both worked under the direction of Joost de Winter.
+The search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI). The repository files, checks and figure were produced with Claude (Anthropic). Both worked under the direction of Joost de Winter.

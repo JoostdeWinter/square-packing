@@ -24,4 +24,4 @@ A figure of the packing is in `n127/n127_record.png`.
 
 **Lineage and credit.** The search started from an exact certificate of an arrangement in the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras. Its original finder could not be established. The search changed the sliding offsets of the columns in the tilted central band and then optimized the positions and angles of individual squares. Please credit the new bound to Joost de Winter, after the arrangement in the Chilton and Panoras compilations.
 
-**AI assistance.** The search, optimization and rational certificate were produced with ChatGPT (OpenAI). The repository files, checks and figure were produced with Claude (Anthropic). Both worked under my direction.
+**AI assistance.** The search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI). The repository files, checks and figure were produced with Claude (Anthropic). Both worked under my direction.
