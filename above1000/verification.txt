@@ -1,0 +1,22 @@
+PASS: 5186 distinct counts and strict reference comparisons; 672 exact border/deletion recipes.
+PASS: 4746 distinct packings. Exact dimensions, band separation, end fills and count verified.
+PASS. Independent exact vertex and separating-axis check for 4746 patterns, 29,895,955 retained unit squares. Three mutations rejected.
+PASS: 175 rational packing components, including containment, notches, and separation.
+PASS: 145 constructions, square counts, and strict comparisons to benchmark floors.
+PASS. 145 expanded packings, 231732 unit squares, 1055711 sweep-line comparisons. Six geometry controls passed.
+bounds.csv SHA-256 3a198d7a666ad09b9a3fb3db61be1cd935735670c89ca743a5a2acae7cd74a31
+PASS: 11 rational packing components, including containment, notches, and separation.
+PASS: 10 constructions, square counts, and strict comparisons to benchmark floors.
+PASS. 10 expanded packings, 12695 unit squares, 56346 sweep-line comparisons. Six geometry controls passed.
+bounds.csv SHA-256 c548a49c52f98a23c11347f2ebc30bd7dce4a4ba711cff89102f5957ea8feadc
+PASS. 178 expanded chain packings, 326397 unit squares, 1590250 sweep-line comparisons. Six geometry controls passed.
+blocks.json.gz SHA-256 2f6339c6ebe4bc95d247a88841b84a6c6b41da4f6a375974fde860a10d7aa117
+bounds.csv SHA-256 f7c636e3488add160bbd19ef6f08580597c4579748500602a88950e84c643f0f
+PASS 2722 unit squares, exact side 65820621716141243169/1250000000000000000
+PASS 2827 unit squares, exact side 67070621718641243169/1250000000000000000
+PASS 4120 unit squares, exact side 80820621746141243169/1250000000000000000
+PASS n=1036, 826 pairs required rotated-axis comparisons
+PASS n=1401, 1118 pairs required rotated-axis comparisons
+PASS n=1627, 935 pairs required rotated-axis comparisons
+PASS n=2934, 2461 pairs required rotated-axis comparisons
+PASS n=9410, 7551 pairs required rotated-axis comparisons

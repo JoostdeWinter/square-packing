@@ -1,0 +1,4 @@
+PASS n=1036, 826 pairs required rotated-axis comparisons
+PASS n=1401, 1118 pairs required rotated-axis comparisons
+PASS n=1627, 935 pairs required rotated-axis comparisons
+PASS n=9410, 7551 pairs required rotated-axis comparisons

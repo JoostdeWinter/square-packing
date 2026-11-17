@@ -1,18 +1,18 @@
 # n = 127
 
-127 unit squares in a square of side
+127 unit squares in a square of side exactly
 
-    11.800795682213569410918500357438642704527
+    5900396863307571/500000000000000 = 11.800793726615142
 
 The Squares Project listed 11.8017538904864874 for n = 127 on 17 November 2026 (T-305, Tomáš Kodaj, improved by JoeGun). The improvement is 0.00096.
 
 ## Construction
 
-The packing has a tilted central band of 57 squares inside a frame of axis-aligned squares. The search started from an exact certificate of an arrangement in the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras. It changed the sliding offsets of the columns in the tilted band and then optimized the positions and angles of individual squares.
+The packing has a tilted central band of 57 squares inside a frame of axis-aligned squares. The search started from an exact certificate of an arrangement in the public Kaggle coordinate compilations of Alex Chilton and Asterios Panoras. It changed the sliding offsets of the columns in the tilted band and optimized the positions and angles of individual squares. A second stage repeatedly changed the aspect ratio of the enclosing rectangle while moving and rotating squares, and then returned to a square. This shifted the tilted cap at the top of the band and changed some of its contacts.
 
 ## Comparison
 
-On the Kaggle per-puzzle leaderboard of "Squares in Squares", Luka Cvetkovic reported a side of 11.800793726618 for n = 127 (16 November 2026), which is 0.0000020 smaller than this packing. His coordinates were not found.
+On the Kaggle per-puzzle leaderboard of "Squares in Squares", Luka Cvetkovic reported a side of 11.800793726617185 for n = 127 (16 November 2026). This packing is 2.04e-12 below that value. His coordinates were not found.
 
 The certificate proves the upper bound s(127) <= side. It makes no statement on optimality.
 

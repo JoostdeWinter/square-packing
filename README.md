@@ -5,7 +5,7 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 | n | Side, rounded up | Squares Project value | Date |
 | ---: | ---: | ---: | :--- |
 | [90](n90/) | 9.994038766610 | 9.998277166926 | 15 November 2026 |
-| [127](n127/) | 11.800795682214 | 11.8017538904864874 | 17 November 2026 |
+| [127](n127/) | 11.800793726616 | 11.8017538904864874 | 17 November 2026 |
 | [132](n132/) | 11.976048383604 | 11.9856801988458088 | 11 November 2026 |
 | [157](n157/) | 12.993302611344 | 13 | 11 November 2026 |
 | [172](n172/) | 13.614689853284 | 13.6146898532862152 | 10 November 2026 |
@@ -35,6 +35,10 @@ The folder [above324](above324/) holds fifteen further packings for n between 41
 The folder [above324_refined](above324_refined/) holds twenty-two packings for n between 597 and 991 that refine public packings of the Kaggle competition "Squares in Squares". This work was performed with Claude (Anthropic) under the direction of Joost de Winter.
 
 The folder [above324_from_n297](above324_from_n297/) holds packings for n = 332 and n = 409, which are the packing for n = 297 plus rows of axis-aligned squares. This work was performed with Claude Fable 5.2 (Anthropic) under the direction of Joost de Winter.
+
+The folder [above1000](above1000/) holds packings for 2,837 counts between 1,036 and 9,928, each with a smaller side than the best public value on 17 November 2026. The search, constructions and certificates were produced with GPT-6.2 Astra (OpenAI) under the direction of Joost de Winter.
+
+The folder [lower_n108](lower_n108/) holds a lower bound for n = 108 and n = 109: s(108) >= 10.630037940829, raised from 10.62 (Hiroaki Hosono). It rescales Hosono's measure and checks it with the Squares Project verifier at 401 directions. The computation and proof were produced with GPT-6.2 Astra (OpenAI) under the direction of Joost de Winter.
 
 The folder [method_n132_n157](method_n132_n157/) holds the code that produced the packings for n = 132 and 157: the growth step, the optimization model, the high-precision solutions and two further checks.
 
