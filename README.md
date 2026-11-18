@@ -19,6 +19,7 @@ Packings of n unit squares in a square, each with a smaller side than the value 
 | [292](n292/) | 17.590016442847 | 17.5913781454976982 | 16 November 2026 |
 | [295](n295/) | 17.699693441716 | 17.70423279073603036 | 16 November 2026 |
 | [297](n297/) | 17.739455558289 | 17.7404172875438019 | 14 November 2026 |
+| [299](n299/) | 17.793636991744 | 17.801004434255294 | 18 November 2026 |
 
 The folders for n = 227, 229 and 260 hold the coordinates, an exact rational certificate, before/after figures, a proof report and three exact checkers. To check one of these packings, run `python3 -B verify_all.py` in its folder (Python 3.10 or later, standard library only). The folders for n = 132, 157, 172, 199 and 297 hold the exact rational coordinates, a figure and one exact checker (`python3 -B verify_exact.py`).
 
@@ -26,7 +27,7 @@ For n = 227, 229 and 260, the numerical search, rational certificate constructio
 
 For n = 90, the local search was run with GPT-6.1 Sol Max (OpenAI), and the local optimization, rational certificate, checking and figures were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter.
 
-For n = 127, 268 and 270, the search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The folders name the public compilations the arrangements come from.
+For n = 127, 268, 270 and 299, the search, optimization and rational certificate were produced with GPT-6.2 Sol (OpenAI), and the repository files, checks and figure with Claude (Anthropic), under the direction of Joost de Winter. The folders name the public compilations the arrangements come from.
 
 For n = 292, the construction and the search were run with Gemini Carbon (Google), and the checking, witness file and figure were produced with Claude Fable 5.2 (Anthropic), under the direction of Joost de Winter. The tilted ribbon of this packing extends the ribbon of David W. Cantrell's packing of 146 squares.
 
