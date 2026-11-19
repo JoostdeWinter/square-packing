@@ -1,0 +1,14 @@
+{
+  "source": "The earlier de Winter certificate derived from prvsiyan, Squares Verified Best of 1105, version 25.",
+  "catalogue_found_by": [
+    "Evan Daniel"
+  ],
+  "catalogue_improved_by": [
+    "Mishapolk"
+  ],
+  "catalogue": "https://squaremath.org/cases/260.html",
+  "refinement": "Contact optimization and exact rational certification in this continuation.",
+  "upstream_notices": "../../attribution/",
+  "dataset": "https://www.kaggle.com/datasets/prvsiyan/squares-verified-best-of-1105/versions/25",
+  "license": "CC BY-SA 4.0"
+}

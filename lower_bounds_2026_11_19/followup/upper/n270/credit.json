@@ -1,0 +1,19 @@
+{
+  "source": "GeiserX_exact.zip, algebraic/n270.cert, attached to SquareMath issue 1037.",
+  "source_url": "https://github.com/jlevy/squares/issues/1037",
+  "origin": "Joost de Winter, after the arrangement in Asterios Panoras\u2019s public compilation.",
+  "archive_sha256": "19c069b42d6a6fbe87dd419d358e7b046eadbba20dbaadd7f519faab1152c5e9",
+  "method": "Uniform center contraction, then independent contact adjustments and exact rational certification.",
+  "comparison_credits": {
+    "n": "270",
+    "how_taken": "public_merge",
+    "sources_apache_2_0_matching_packing": "alexchilton/fault-line-dp-basin-hopping-lb-22-2620;alexchilton/squares-101-the-starter-kit-14-900-downloads;jazivxt/boxed-in-sub;kmmmvs/fork-of-squares-public-merge-daily-92ce4f;kmmmvs/squares-101-the-starter-kit-14-900-downloads;nilanjansaha123/certified-merge-projection-quench-gpu-screen;nilanjansaha123/s-in-s-certified-portfolio-merge-proj-quench"
+  },
+  "kaggle": {
+    "n": 270,
+    "L": "16.927314216352",
+    "L_full": "16.92731421635175000000000000000000000000000000000000",
+    "team": "Arthur Kim",
+    "date": "2026-11-18 22:55:43 UTC"
+  }
+}

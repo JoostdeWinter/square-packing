@@ -1,0 +1,4538 @@
+{
+ "1": {
+  "reported_lower_bound": {
+   "displayed": "1",
+   "exact_form": "None",
+   "lower": "1",
+   "upper": "1"
+  },
+  "verified_lower_bound": {
+   "displayed": "1",
+   "exact_form": "1",
+   "lower": "1",
+   "upper": "1"
+  }
+ },
+ "2": {
+  "reported_lower_bound": {
+   "displayed": "2",
+   "exact_form": "None",
+   "lower": "2",
+   "upper": "2"
+  },
+  "verified_lower_bound": {
+   "displayed": "2",
+   "exact_form": "2",
+   "lower": "2",
+   "upper": "2"
+  }
+ },
+ "3": {
+  "reported_lower_bound": {
+   "displayed": "2",
+   "exact_form": "None",
+   "lower": "2",
+   "upper": "2"
+  },
+  "verified_lower_bound": {
+   "displayed": "2",
+   "exact_form": "2",
+   "lower": "2",
+   "upper": "2"
+  }
+ },
+ "4": {
+  "reported_lower_bound": {
+   "displayed": "2",
+   "exact_form": "None",
+   "lower": "2",
+   "upper": "2"
+  },
+  "verified_lower_bound": {
+   "displayed": "2",
+   "exact_form": "2",
+   "lower": "2",
+   "upper": "2"
+  }
+ },
+ "5": {
+  "reported_lower_bound": {
+   "displayed": "2707106781187/1000000000000",
+   "exact_form": "None",
+   "lower": "2707106781187/1000000000000",
+   "upper": "2707106781187/1000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "54142135623730950488016887242097/20000000000000000000000000000000",
+   "exact_form": "2 + (1/2)sqrt(2)",
+   "lower": "2707106781186547524400844362104849039284835937688474036588339868995366239/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5414213562373095048801688724209698078569671875376948073176679737990732479/2000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "6": {
+  "reported_lower_bound": {
+   "displayed": "3",
+   "exact_form": "None",
+   "lower": "3",
+   "upper": "3"
+  },
+  "verified_lower_bound": {
+   "displayed": "3",
+   "exact_form": "3",
+   "lower": "3",
+   "upper": "3"
+  }
+ },
+ "7": {
+  "reported_lower_bound": {
+   "displayed": "3",
+   "exact_form": "None",
+   "lower": "3",
+   "upper": "3"
+  },
+  "verified_lower_bound": {
+   "displayed": "3",
+   "exact_form": "3",
+   "lower": "3",
+   "upper": "3"
+  }
+ },
+ "8": {
+  "reported_lower_bound": {
+   "displayed": "3",
+   "exact_form": "None",
+   "lower": "3",
+   "upper": "3"
+  },
+  "verified_lower_bound": {
+   "displayed": "3",
+   "exact_form": "3",
+   "lower": "3",
+   "upper": "3"
+  }
+ },
+ "9": {
+  "reported_lower_bound": {
+   "displayed": "3",
+   "exact_form": "None",
+   "lower": "3",
+   "upper": "3"
+  },
+  "verified_lower_bound": {
+   "displayed": "3",
+   "exact_form": "3",
+   "lower": "3",
+   "upper": "3"
+  }
+ },
+ "10": {
+  "reported_lower_bound": {
+   "displayed": "3707106781187/1000000000000",
+   "exact_form": "None",
+   "lower": "3707106781187/1000000000000",
+   "upper": "3707106781187/1000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "74142135623730950488016887242097/20000000000000000000000000000000",
+   "exact_form": "3 + (1/2)sqrt(2)",
+   "lower": "3707106781186547524400844362104849039284835937688474036588339868995366239/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7414213562373095048801688724209698078569671875376948073176679737990732479/2000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "11": {
+  "reported_lower_bound": {
+   "displayed": "387708359002281/100000000000000",
+   "exact_form": "None",
+   "lower": "387708359002281/100000000000000",
+   "upper": "387708359002281/100000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "24231772437642588608174356625631/6250000000000000000000000000000",
+   "exact_form": "root(P_trump11, 3.87708359002281417730789706010096)",
+   "lower": "24231772437642588608174356625631/6250000000000000000000000000000",
+   "upper": "24231772437642588608174356625631/6250000000000000000000000000000"
+  }
+ },
+ "12": {
+  "reported_lower_bound": {
+   "displayed": "4",
+   "exact_form": "4",
+   "lower": "4",
+   "upper": "4"
+  },
+  "verified_lower_bound": {
+   "displayed": "9929/2500",
+   "exact_form": "9929/2500",
+   "lower": "9929/2500",
+   "upper": "9929/2500"
+  }
+ },
+ "13": {
+  "reported_lower_bound": {
+   "displayed": "4",
+   "exact_form": "None",
+   "lower": "4",
+   "upper": "4"
+  },
+  "verified_lower_bound": {
+   "displayed": "4",
+   "exact_form": "4",
+   "lower": "4",
+   "upper": "4"
+  }
+ },
+ "14": {
+  "reported_lower_bound": {
+   "displayed": "4",
+   "exact_form": "None",
+   "lower": "4",
+   "upper": "4"
+  },
+  "verified_lower_bound": {
+   "displayed": "4",
+   "exact_form": "4",
+   "lower": "4",
+   "upper": "4"
+  }
+ },
+ "15": {
+  "reported_lower_bound": {
+   "displayed": "4",
+   "exact_form": "None",
+   "lower": "4",
+   "upper": "4"
+  },
+  "verified_lower_bound": {
+   "displayed": "4",
+   "exact_form": "4",
+   "lower": "4",
+   "upper": "4"
+  }
+ },
+ "16": {
+  "reported_lower_bound": {
+   "displayed": "4",
+   "exact_form": "None",
+   "lower": "4",
+   "upper": "4"
+  },
+  "verified_lower_bound": {
+   "displayed": "4",
+   "exact_form": "4",
+   "lower": "4",
+   "upper": "4"
+  }
+ },
+ "17": {
+  "reported_lower_bound": {
+   "displayed": "467553009360455095163/100000000000000000000",
+   "exact_form": "None",
+   "lower": "467553009360455095163/100000000000000000000",
+   "upper": "467553009360455095163/100000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "18641771/4000000",
+   "exact_form": "18641771/4000000",
+   "lower": "18641771/4000000",
+   "upper": "18641771/4000000"
+  }
+ },
+ "18": {
+  "reported_lower_bound": {
+   "displayed": "941/200",
+   "exact_form": "941/200",
+   "lower": "941/200",
+   "upper": "941/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "941/200",
+   "exact_form": "941/200",
+   "lower": "941/200",
+   "upper": "941/200"
+  }
+ },
+ "19": {
+  "reported_lower_bound": {
+   "displayed": "1931/400",
+   "exact_form": "1931/400",
+   "lower": "1931/400",
+   "upper": "1931/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "1931/400",
+   "exact_form": "1931/400",
+   "lower": "1931/400",
+   "upper": "1931/400"
+  }
+ },
+ "20": {
+  "reported_lower_bound": {
+   "displayed": "393/80",
+   "exact_form": "393/80",
+   "lower": "393/80",
+   "upper": "393/80"
+  },
+  "verified_lower_bound": {
+   "displayed": "393/80",
+   "exact_form": "393/80",
+   "lower": "393/80",
+   "upper": "393/80"
+  }
+ },
+ "21": {
+  "reported_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  },
+  "verified_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  }
+ },
+ "22": {
+  "reported_lower_bound": {
+   "displayed": "5",
+   "exact_form": "None",
+   "lower": "5",
+   "upper": "5"
+  },
+  "verified_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  }
+ },
+ "23": {
+  "reported_lower_bound": {
+   "displayed": "5",
+   "exact_form": "None",
+   "lower": "5",
+   "upper": "5"
+  },
+  "verified_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  }
+ },
+ "24": {
+  "reported_lower_bound": {
+   "displayed": "5",
+   "exact_form": "None",
+   "lower": "5",
+   "upper": "5"
+  },
+  "verified_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  }
+ },
+ "25": {
+  "reported_lower_bound": {
+   "displayed": "5",
+   "exact_form": "None",
+   "lower": "5",
+   "upper": "5"
+  },
+  "verified_lower_bound": {
+   "displayed": "5",
+   "exact_form": "5",
+   "lower": "5",
+   "upper": "5"
+  }
+ },
+ "26": {
+  "reported_lower_bound": {
+   "displayed": "1111/200",
+   "exact_form": "1111/200",
+   "lower": "1111/200",
+   "upper": "1111/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "1111/200",
+   "exact_form": "1111/200",
+   "lower": "1111/200",
+   "upper": "1111/200"
+  }
+ },
+ "27": {
+  "reported_lower_bound": {
+   "displayed": "1131/200",
+   "exact_form": "1131/200",
+   "lower": "1131/200",
+   "upper": "1131/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "1131/200",
+   "exact_form": "1131/200",
+   "lower": "1131/200",
+   "upper": "1131/200"
+  }
+ },
+ "28": {
+  "reported_lower_bound": {
+   "displayed": "2297/400",
+   "exact_form": "2297/400",
+   "lower": "2297/400",
+   "upper": "2297/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2297/400",
+   "exact_form": "2297/400",
+   "lower": "2297/400",
+   "upper": "2297/400"
+  }
+ },
+ "29": {
+  "reported_lower_bound": {
+   "displayed": "291/50",
+   "exact_form": "291/50",
+   "lower": "291/50",
+   "upper": "291/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "291/50",
+   "exact_form": "291/50",
+   "lower": "291/50",
+   "upper": "291/50"
+  }
+ },
+ "30": {
+  "reported_lower_bound": {
+   "displayed": "2357/400",
+   "exact_form": "2357/400",
+   "lower": "2357/400",
+   "upper": "2357/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2357/400",
+   "exact_form": "2357/400",
+   "lower": "2357/400",
+   "upper": "2357/400"
+  }
+ },
+ "31": {
+  "reported_lower_bound": {
+   "displayed": "2391/400",
+   "exact_form": "2391/400",
+   "lower": "2391/400",
+   "upper": "2391/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2391/400",
+   "exact_form": "2391/400",
+   "lower": "2391/400",
+   "upper": "2391/400"
+  }
+ },
+ "32": {
+  "reported_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  },
+  "verified_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  }
+ },
+ "33": {
+  "reported_lower_bound": {
+   "displayed": "6",
+   "exact_form": "None",
+   "lower": "6",
+   "upper": "6"
+  },
+  "verified_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  }
+ },
+ "34": {
+  "reported_lower_bound": {
+   "displayed": "6",
+   "exact_form": "None",
+   "lower": "6",
+   "upper": "6"
+  },
+  "verified_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  }
+ },
+ "35": {
+  "reported_lower_bound": {
+   "displayed": "6",
+   "exact_form": "None",
+   "lower": "6",
+   "upper": "6"
+  },
+  "verified_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  }
+ },
+ "36": {
+  "reported_lower_bound": {
+   "displayed": "6",
+   "exact_form": "None",
+   "lower": "6",
+   "upper": "6"
+  },
+  "verified_lower_bound": {
+   "displayed": "6",
+   "exact_form": "6",
+   "lower": "6",
+   "upper": "6"
+  }
+ },
+ "37": {
+  "reported_lower_bound": {
+   "displayed": "2599/400",
+   "exact_form": "2599/400",
+   "lower": "2599/400",
+   "upper": "2599/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2599/400",
+   "exact_form": "2599/400",
+   "lower": "2599/400",
+   "upper": "2599/400"
+  }
+ },
+ "38": {
+  "reported_lower_bound": {
+   "displayed": "1309/200",
+   "exact_form": "1309/200",
+   "lower": "1309/200",
+   "upper": "1309/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "1309/200",
+   "exact_form": "1309/200",
+   "lower": "1309/200",
+   "upper": "1309/200"
+  }
+ },
+ "39": {
+  "reported_lower_bound": {
+   "displayed": "533/80",
+   "exact_form": "533/80",
+   "lower": "533/80",
+   "upper": "533/80"
+  },
+  "verified_lower_bound": {
+   "displayed": "533/80",
+   "exact_form": "533/80",
+   "lower": "533/80",
+   "upper": "533/80"
+  }
+ },
+ "40": {
+  "reported_lower_bound": {
+   "displayed": "3359/500",
+   "exact_form": "3359/500",
+   "lower": "3359/500",
+   "upper": "3359/500"
+  },
+  "verified_lower_bound": {
+   "displayed": "3359/500",
+   "exact_form": "3359/500",
+   "lower": "3359/500",
+   "upper": "3359/500"
+  }
+ },
+ "41": {
+  "reported_lower_bound": {
+   "displayed": "271/40",
+   "exact_form": "271/40",
+   "lower": "271/40",
+   "upper": "271/40"
+  },
+  "verified_lower_bound": {
+   "displayed": "271/40",
+   "exact_form": "271/40",
+   "lower": "271/40",
+   "upper": "271/40"
+  }
+ },
+ "42": {
+  "reported_lower_bound": {
+   "displayed": "2739/400",
+   "exact_form": "2739/400",
+   "lower": "2739/400",
+   "upper": "2739/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2739/400",
+   "exact_form": "2739/400",
+   "lower": "2739/400",
+   "upper": "2739/400"
+  }
+ },
+ "43": {
+  "reported_lower_bound": {
+   "displayed": "2763/400",
+   "exact_form": "2763/400",
+   "lower": "2763/400",
+   "upper": "2763/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "2763/400",
+   "exact_form": "2763/400",
+   "lower": "2763/400",
+   "upper": "2763/400"
+  }
+ },
+ "44": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "45": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "46": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "None",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "47": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "None",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "48": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "None",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "49": {
+  "reported_lower_bound": {
+   "displayed": "7",
+   "exact_form": "None",
+   "lower": "7",
+   "upper": "7"
+  },
+  "verified_lower_bound": {
+   "displayed": "7",
+   "exact_form": "7",
+   "lower": "7",
+   "upper": "7"
+  }
+ },
+ "50": {
+  "reported_lower_bound": {
+   "displayed": "37/5",
+   "exact_form": "37/5",
+   "lower": "37/5",
+   "upper": "37/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "37/5",
+   "exact_form": "37/5",
+   "lower": "37/5",
+   "upper": "37/5"
+  }
+ },
+ "51": {
+  "reported_lower_bound": {
+   "displayed": "747/100",
+   "exact_form": "747/100",
+   "lower": "747/100",
+   "upper": "747/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "747/100",
+   "exact_form": "747/100",
+   "lower": "747/100",
+   "upper": "747/100"
+  }
+ },
+ "52": {
+  "reported_lower_bound": {
+   "displayed": "151/20",
+   "exact_form": "151/20",
+   "lower": "151/20",
+   "upper": "151/20"
+  },
+  "verified_lower_bound": {
+   "displayed": "151/20",
+   "exact_form": "151/20",
+   "lower": "151/20",
+   "upper": "151/20"
+  }
+ },
+ "53": {
+  "reported_lower_bound": {
+   "displayed": "3051/400",
+   "exact_form": "3051/400",
+   "lower": "3051/400",
+   "upper": "3051/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3051/400",
+   "exact_form": "3051/400",
+   "lower": "3051/400",
+   "upper": "3051/400"
+  }
+ },
+ "54": {
+  "reported_lower_bound": {
+   "displayed": "1537/200",
+   "exact_form": "1537/200",
+   "lower": "1537/200",
+   "upper": "1537/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "1537/200",
+   "exact_form": "1537/200",
+   "lower": "1537/200",
+   "upper": "1537/200"
+  }
+ },
+ "55": {
+  "reported_lower_bound": {
+   "displayed": "966/125",
+   "exact_form": "966/125",
+   "lower": "966/125",
+   "upper": "966/125"
+  },
+  "verified_lower_bound": {
+   "displayed": "966/125",
+   "exact_form": "966/125",
+   "lower": "966/125",
+   "upper": "966/125"
+  }
+ },
+ "56": {
+  "reported_lower_bound": {
+   "displayed": "3121/400",
+   "exact_form": "3121/400",
+   "lower": "3121/400",
+   "upper": "3121/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3121/400",
+   "exact_form": "3121/400",
+   "lower": "3121/400",
+   "upper": "3121/400"
+  }
+ },
+ "57": {
+  "reported_lower_bound": {
+   "displayed": "3149/400",
+   "exact_form": "3149/400",
+   "lower": "3149/400",
+   "upper": "3149/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3149/400",
+   "exact_form": "3149/400",
+   "lower": "3149/400",
+   "upper": "3149/400"
+  }
+ },
+ "58": {
+  "reported_lower_bound": {
+   "displayed": "1587/200",
+   "exact_form": "1587/200",
+   "lower": "1587/200",
+   "upper": "1587/200"
+  },
+  "verified_lower_bound": {
+   "displayed": "1587/200",
+   "exact_form": "1587/200",
+   "lower": "1587/200",
+   "upper": "1587/200"
+  }
+ },
+ "59": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "60": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "61": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "62": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "None",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "63": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "None",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "64": {
+  "reported_lower_bound": {
+   "displayed": "8",
+   "exact_form": "None",
+   "lower": "8",
+   "upper": "8"
+  },
+  "verified_lower_bound": {
+   "displayed": "8",
+   "exact_form": "8",
+   "lower": "8",
+   "upper": "8"
+  }
+ },
+ "65": {
+  "reported_lower_bound": {
+   "displayed": "167/20",
+   "exact_form": "167/20",
+   "lower": "167/20",
+   "upper": "167/20"
+  },
+  "verified_lower_bound": {
+   "displayed": "167/20",
+   "exact_form": "167/20",
+   "lower": "167/20",
+   "upper": "167/20"
+  }
+ },
+ "66": {
+  "reported_lower_bound": {
+   "displayed": "843/100",
+   "exact_form": "843/100",
+   "lower": "843/100",
+   "upper": "843/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "843/100",
+   "exact_form": "843/100",
+   "lower": "843/100",
+   "upper": "843/100"
+  }
+ },
+ "67": {
+  "reported_lower_bound": {
+   "displayed": "212/25",
+   "exact_form": "212/25",
+   "lower": "212/25",
+   "upper": "212/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "212/25",
+   "exact_form": "212/25",
+   "lower": "212/25",
+   "upper": "212/25"
+  }
+ },
+ "68": {
+  "reported_lower_bound": {
+   "displayed": "853/100",
+   "exact_form": "853/100",
+   "lower": "853/100",
+   "upper": "853/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "853/100",
+   "exact_form": "853/100",
+   "lower": "853/100",
+   "upper": "853/100"
+  }
+ },
+ "69": {
+  "reported_lower_bound": {
+   "displayed": "431/50",
+   "exact_form": "431/50",
+   "lower": "431/50",
+   "upper": "431/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "431/50",
+   "exact_form": "431/50",
+   "lower": "431/50",
+   "upper": "431/50"
+  }
+ },
+ "70": {
+  "reported_lower_bound": {
+   "displayed": "3463/400",
+   "exact_form": "3463/400",
+   "lower": "3463/400",
+   "upper": "3463/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3463/400",
+   "exact_form": "3463/400",
+   "lower": "3463/400",
+   "upper": "3463/400"
+  }
+ },
+ "71": {
+  "reported_lower_bound": {
+   "displayed": "8721/1000",
+   "exact_form": "8721/1000",
+   "lower": "8721/1000",
+   "upper": "8721/1000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8721/1000",
+   "exact_form": "8721/1000",
+   "lower": "8721/1000",
+   "upper": "8721/1000"
+  }
+ },
+ "72": {
+  "reported_lower_bound": {
+   "displayed": "219/25",
+   "exact_form": "219/25",
+   "lower": "219/25",
+   "upper": "219/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "219/25",
+   "exact_form": "219/25",
+   "lower": "219/25",
+   "upper": "219/25"
+  }
+ },
+ "73": {
+  "reported_lower_bound": {
+   "displayed": "8813/1000",
+   "exact_form": "8813/1000",
+   "lower": "8813/1000",
+   "upper": "8813/1000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8813/1000",
+   "exact_form": "8813/1000",
+   "lower": "8813/1000",
+   "upper": "8813/1000"
+  }
+ },
+ "74": {
+  "reported_lower_bound": {
+   "displayed": "3547/400",
+   "exact_form": "3547/400",
+   "lower": "3547/400",
+   "upper": "3547/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3547/400",
+   "exact_form": "3547/400",
+   "lower": "3547/400",
+   "upper": "3547/400"
+  }
+ },
+ "75": {
+  "reported_lower_bound": {
+   "displayed": "447/50",
+   "exact_form": "447/50",
+   "lower": "447/50",
+   "upper": "447/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "447/50",
+   "exact_form": "447/50",
+   "lower": "447/50",
+   "upper": "447/50"
+  }
+ },
+ "76": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "77": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "78": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "79": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "None",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "80": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "None",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "81": {
+  "reported_lower_bound": {
+   "displayed": "9",
+   "exact_form": "None",
+   "lower": "9",
+   "upper": "9"
+  },
+  "verified_lower_bound": {
+   "displayed": "9",
+   "exact_form": "9",
+   "lower": "9",
+   "upper": "9"
+  }
+ },
+ "82": {
+  "reported_lower_bound": {
+   "displayed": "233/25",
+   "exact_form": "233/25",
+   "lower": "233/25",
+   "upper": "233/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "233/25",
+   "exact_form": "233/25",
+   "lower": "233/25",
+   "upper": "233/25"
+  }
+ },
+ "83": {
+  "reported_lower_bound": {
+   "displayed": "937/100",
+   "exact_form": "937/100",
+   "lower": "937/100",
+   "upper": "937/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "937/100",
+   "exact_form": "937/100",
+   "lower": "937/100",
+   "upper": "937/100"
+  }
+ },
+ "84": {
+  "reported_lower_bound": {
+   "displayed": "3769/400",
+   "exact_form": "3769/400",
+   "lower": "3769/400",
+   "upper": "3769/400"
+  },
+  "verified_lower_bound": {
+   "displayed": "3769/400",
+   "exact_form": "3769/400",
+   "lower": "3769/400",
+   "upper": "3769/400"
+  }
+ },
+ "85": {
+  "reported_lower_bound": {
+   "displayed": "379/40",
+   "exact_form": "379/40",
+   "lower": "379/40",
+   "upper": "379/40"
+  },
+  "verified_lower_bound": {
+   "displayed": "379/40",
+   "exact_form": "379/40",
+   "lower": "379/40",
+   "upper": "379/40"
+  }
+ },
+ "86": {
+  "reported_lower_bound": {
+   "displayed": "9503/1000",
+   "exact_form": "9503/1000",
+   "lower": "9503/1000",
+   "upper": "9503/1000"
+  },
+  "verified_lower_bound": {
+   "displayed": "9503/1000",
+   "exact_form": "9503/1000",
+   "lower": "9503/1000",
+   "upper": "9503/1000"
+  }
+ },
+ "87": {
+  "reported_lower_bound": {
+   "displayed": "479/50",
+   "exact_form": "479/50",
+   "lower": "479/50",
+   "upper": "479/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "479/50",
+   "exact_form": "479/50",
+   "lower": "479/50",
+   "upper": "479/50"
+  }
+ },
+ "88": {
+  "reported_lower_bound": {
+   "displayed": "481/50",
+   "exact_form": "481/50",
+   "lower": "481/50",
+   "upper": "481/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "481/50",
+   "exact_form": "481/50",
+   "lower": "481/50",
+   "upper": "481/50"
+  }
+ },
+ "89": {
+  "reported_lower_bound": {
+   "displayed": "193/20",
+   "exact_form": "193/20",
+   "lower": "193/20",
+   "upper": "193/20"
+  },
+  "verified_lower_bound": {
+   "displayed": "193/20",
+   "exact_form": "193/20",
+   "lower": "193/20",
+   "upper": "193/20"
+  }
+ },
+ "90": {
+  "reported_lower_bound": {
+   "displayed": "973/100",
+   "exact_form": "973/100",
+   "lower": "973/100",
+   "upper": "973/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "973/100",
+   "exact_form": "973/100",
+   "lower": "973/100",
+   "upper": "973/100"
+  }
+ },
+ "91": {
+  "reported_lower_bound": {
+   "displayed": "781/80",
+   "exact_form": "781/80",
+   "lower": "781/80",
+   "upper": "781/80"
+  },
+  "verified_lower_bound": {
+   "displayed": "781/80",
+   "exact_form": "781/80",
+   "lower": "781/80",
+   "upper": "781/80"
+  }
+ },
+ "92": {
+  "reported_lower_bound": {
+   "displayed": "977/100",
+   "exact_form": "977/100",
+   "lower": "977/100",
+   "upper": "977/100"
+  },
+  "verified_lower_bound": {
+   "displayed": "977/100",
+   "exact_form": "977/100",
+   "lower": "977/100",
+   "upper": "977/100"
+  }
+ },
+ "93": {
+  "reported_lower_bound": {
+   "displayed": "247/25",
+   "exact_form": "247/25",
+   "lower": "247/25",
+   "upper": "247/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "247/25",
+   "exact_form": "247/25",
+   "lower": "247/25",
+   "upper": "247/25"
+  }
+ },
+ "94": {
+  "reported_lower_bound": {
+   "displayed": "2493/250",
+   "exact_form": "2493/250",
+   "lower": "2493/250",
+   "upper": "2493/250"
+  },
+  "verified_lower_bound": {
+   "displayed": "2493/250",
+   "exact_form": "2493/250",
+   "lower": "2493/250",
+   "upper": "2493/250"
+  }
+ },
+ "95": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "96": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "97": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "98": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "None",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "99": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "None",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "100": {
+  "reported_lower_bound": {
+   "displayed": "10",
+   "exact_form": "None",
+   "lower": "10",
+   "upper": "10"
+  },
+  "verified_lower_bound": {
+   "displayed": "10",
+   "exact_form": "10",
+   "lower": "10",
+   "upper": "10"
+  }
+ },
+ "101": {
+  "reported_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  }
+ },
+ "102": {
+  "reported_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  }
+ },
+ "103": {
+  "reported_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  }
+ },
+ "104": {
+  "reported_lower_bound": {
+   "displayed": "5144263927451/500000000000",
+   "exact_form": "10288527854902856682016431335274/1000000000000000000000000000000",
+   "lower": "5144263927451428341008215667637/500000000000000000000000000000",
+   "upper": "5144263927451428341008215667637/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  }
+ },
+ "105": {
+  "reported_lower_bound": {
+   "displayed": "10354760059211/1000000000000",
+   "exact_form": "10354760059211635897156128812338/1000000000000000000000000000000",
+   "lower": "5177380029605817948578064406169/500000000000000000000000000000",
+   "upper": "5177380029605817948578064406169/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "257/25",
+   "exact_form": "257/25",
+   "lower": "257/25",
+   "upper": "257/25"
+  }
+ },
+ "106": {
+  "reported_lower_bound": {
+   "displayed": "1040397664917/100000000000",
+   "exact_form": "10403976649170868104031437025345/1000000000000000000000000000000",
+   "lower": "2080795329834173620806287405069/200000000000000000000000000000",
+   "upper": "2080795329834173620806287405069/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "103107084351/10000000000",
+   "exact_form": "1/2 + sqrt(106 - floor(sqrt(106)) + 1/4)",
+   "lower": "5155354217587145867131500947295443581578208631039391859214892556489034589/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "10310708435174291734263001894590887163156417262078783718429785112978069179/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "107": {
+  "reported_lower_bound": {
+   "displayed": "5218395197021/500000000000",
+   "exact_form": "10436790394042294133351177850473/1000000000000000000000000000000",
+   "lower": "10436790394042294133351177850473/1000000000000000000000000000000",
+   "upper": "10436790394042294133351177850473/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "12951926827/1250000000",
+   "exact_form": "1/2 + sqrt(107 - floor(sqrt(107)) + 1/4)",
+   "lower": "10361541461658009984031999541623901899866234004724566238407011855403559191/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1295192682707251248003999942702987737483279250590570779800876481925444899/125000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "108": {
+  "reported_lower_bound": {
+   "displayed": "10630037940829/1000000000000",
+   "exact_form": "1700799526134255846599/159999384348528500000",
+   "lower": "1700799526134255846599/159999384348528500000",
+   "upper": "1700799526134255846599/159999384348528500000"
+  },
+  "verified_lower_bound": {
+   "displayed": "10630037940829/1000000000000",
+   "exact_form": "1700799526134255846599/159999384348528500000",
+   "lower": "1700799526134255846599/159999384348528500000",
+   "upper": "1700799526134255846599/159999384348528500000"
+  }
+ },
+ "109": {
+  "reported_lower_bound": {
+   "displayed": "10630037940829/1000000000000",
+   "exact_form": "1700799526134255846599/159999384348528500000",
+   "lower": "1700799526134255846599/159999384348528500000",
+   "upper": "1700799526134255846599/159999384348528500000"
+  },
+  "verified_lower_bound": {
+   "displayed": "10630037940829/1000000000000",
+   "exact_form": "1700799526134255846599/159999384348528500000",
+   "lower": "1700799526134255846599/159999384348528500000",
+   "upper": "1700799526134255846599/159999384348528500000"
+  }
+ },
+ "110": {
+  "reported_lower_bound": {
+   "displayed": "53/5",
+   "exact_form": "10600000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "53/5",
+   "upper": "53/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "26281230493/2500000000",
+   "exact_form": "1/2 + sqrt(110 - floor(sqrt(110)) + 1/4)",
+   "lower": "2628123049312598215962151518540325677685806414114492160136113890952489249/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "10512492197250392863848606074161302710743225656457968640544455563809956997/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "111": {
+  "reported_lower_bound": {
+   "displayed": "10654002473631/1000000000000",
+   "exact_form": "10654002473631688533121652521702/1000000000000000000000000000000",
+   "lower": "5327001236815844266560826260851/500000000000000000000000000000",
+   "upper": "5327001236815844266560826260851/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "105623058987/10000000000",
+   "exact_form": "1/2 + sqrt(111 - floor(sqrt(111)) + 1/4)",
+   "lower": "2112461179749810726768256301858148611896556523650373151843807520869468833/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5281152949374526816920640754645371529741391309125932879609518802173672083/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "112": {
+  "reported_lower_bound": {
+   "displayed": "10711734195583/1000000000000",
+   "exact_form": "10711734195583848963001119512527/1000000000000000000000000000000",
+   "lower": "10711734195583848963001119512527/1000000000000000000000000000000",
+   "upper": "10711734195583848963001119512527/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "331621069/31250000",
+   "exact_form": "1/2 + sqrt(112 - floor(sqrt(112)) + 1/4)",
+   "lower": "5305937104039171094878246889810008144859704277105749892420642620958097369/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "10611874208078342189756493779620016289719408554211499784841285241916194739/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "113": {
+  "reported_lower_bound": {
+   "displayed": "673036802543/62500000000",
+   "exact_form": "10768588840688457620332711010890/1000000000000000000000000000000",
+   "lower": "1076858884068845762033271101089/100000000000000000000000000000",
+   "upper": "1076858884068845762033271101089/100000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "26653001791/2500000000",
+   "exact_form": "1/2 + sqrt(113 - floor(sqrt(113)) + 1/4)",
+   "lower": "1066120071645078763818588811474368226757948290680865640433888134026468167/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "10661200716450787638185888114743682267579482906808656404338881340264681671/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "114": {
+  "reported_lower_bound": {
+   "displayed": "54/5",
+   "exact_form": "10800000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "54/5",
+   "upper": "54/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "107102889283/10000000000",
+   "exact_form": "1/2 + sqrt(114 - floor(sqrt(114)) + 1/4)",
+   "lower": "2677572232082767134010166886734303210865316433857040415952722768148062147/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "10710288928331068536040667546937212843461265735428161663810891072592248589/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "115": {
+  "reported_lower_bound": {
+   "displayed": "10854957122979/1000000000000",
+   "exact_form": "10854957122979241167534185204286/1000000000000000000000000000000",
+   "lower": "5427478561489620583767092602143/500000000000000000000000000000",
+   "upper": "5427478561489620583767092602143/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "107591422643/10000000000",
+   "exact_form": "1/2 + sqrt(115 - floor(sqrt(115)) + 1/4)",
+   "lower": "10759142264341595531259869099570529544262877678125600403182927518060275779/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "537957113217079776562993454978526477213143883906280020159146375903013789/50000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "116": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "337742627/31250000",
+   "exact_form": "1/2 + sqrt(116 - floor(sqrt(116)) + 1/4)",
+   "lower": "2161552812808830274910704927987038512573599612686810217199316786547477173/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5403882032022075687276762319967596281433999031717025542998291966368692933/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "117": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "54280787943/5000000000",
+   "exact_form": "1/2 + sqrt(117 - floor(sqrt(117)) + 1/4)",
+   "lower": "10856157588603989566078588172024067830946506245733368429366626674080960931/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2714039397150997391519647043006016957736626561433342107341656668520240233/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "118": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  }
+ },
+ "119": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "None",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  }
+ },
+ "120": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "None",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  }
+ },
+ "121": {
+  "reported_lower_bound": {
+   "displayed": "11",
+   "exact_form": "None",
+   "lower": "11",
+   "upper": "11"
+  },
+  "verified_lower_bound": {
+   "displayed": "11",
+   "exact_form": "11",
+   "lower": "11",
+   "upper": "11"
+  }
+ },
+ "122": {
+  "reported_lower_bound": {
+   "displayed": "224585617511/20000000000",
+   "exact_form": "5*sqrt(22)/61 + 2*sqrt(2) + 489/61",
+   "lower": "171246533352158685931658543730326374247110277640761587673895859372488621369/15250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "684986133408634743726634174921305496988441110563046350695583437489954485603/61000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "27618778887/2500000000",
+   "exact_form": "1/2 + sqrt(122 - floor(sqrt(122)) + 1/4)",
+   "lower": "11047511554864493249895360646546173839321847137313319428654877316097361781/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5523755777432246624947680323273086919660923568656659714327438658048680891/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "123": {
+  "reported_lower_bound": {
+   "displayed": "224585617511/20000000000",
+   "exact_form": "5*sqrt(22)/61 + 2*sqrt(2) + 489/61",
+   "lower": "171246533352158685931658543730326374247110277640761587673895859372488621369/15250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "684986133408634743726634174921305496988441110563046350695583437489954485603/61000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "55474050251/5000000000",
+   "exact_form": "1/2 + sqrt(123 - floor(sqrt(123)) + 1/4)",
+   "lower": "5547405025104272692929414737880010220827861106163480562074444863325249277/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2218962010041709077171765895152004088331144442465392224829777945330099711/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "124": {
+  "reported_lower_bound": {
+   "displayed": "224585617511/20000000000",
+   "exact_form": "5*sqrt(22)/61 + 2*sqrt(2) + 489/61",
+   "lower": "171246533352158685931658543730326374247110277640761587673895859372488621369/15250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "684986133408634743726634174921305496988441110563046350695583437489954485603/61000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "27854745817/2500000000",
+   "exact_form": "1/2 + sqrt(124 - floor(sqrt(124)) + 1/4)",
+   "lower": "5570949163448190659663245229598393090820766929772578440931694885761864791/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11141898326896381319326490459196786181641533859545156881863389771523729583/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "125": {
+  "reported_lower_bound": {
+   "displayed": "224585617511/20000000000",
+   "exact_form": "5*sqrt(22)/61 + 2*sqrt(2) + 489/61",
+   "lower": "171246533352158685931658543730326374247110277640761587673895859372488621369/15250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "684986133408634743726634174921305496988441110563046350695583437489954485603/61000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "6992986977/625000000",
+   "exact_form": "1/2 + sqrt(125 - floor(sqrt(125)) + 1/4)",
+   "lower": "11188779163215975059478051018916137201362283469560751693409116386254931203/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2797194790803993764869512754729034300340570867390187923352279096563732801/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "126": {
+  "reported_lower_bound": {
+   "displayed": "11313323850997/1000000000000",
+   "exact_form": "11313323850997974097849202861841/1000000000000000000000000000000",
+   "lower": "11313323850997974097849202861841/1000000000000000000000000000000",
+   "upper": "11313323850997974097849202861841/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "112354552767/10000000000",
+   "exact_form": "1/2 + sqrt(126 - floor(sqrt(126)) + 1/4)",
+   "lower": "1404431909598993029325606173814938885347333656258348052773871041722707563/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2247091055358388846920969878103902216555733850013356884438193666756332101/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "127": {
+  "reported_lower_bound": {
+   "displayed": "11371666575347/1000000000000",
+   "exact_form": "11371666575347155125075549070184/1000000000000000000000000000000",
+   "lower": "1421458321918394390634443633773/125000000000000000000000000000",
+   "upper": "1421458321918394390634443633773/125000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "7051205829/625000000",
+   "exact_form": "1/2 + sqrt(127 - floor(sqrt(127)) + 1/4)",
+   "lower": "2820482331605978084341742724875148094710632541463487254416412565714466767/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11281929326423912337366970899500592378842530165853949017665650262857867069/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "128": {
+  "reported_lower_bound": {
+   "displayed": "11410198096219/1000000000000",
+   "exact_form": "11410198096219834384485926334692/1000000000000000000000000000000",
+   "lower": "2852549524054958596121481583673/250000000000000000000000000000",
+   "upper": "2852549524054958596121481583673/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "56641019569/5000000000",
+   "exact_form": "1/2 + sqrt(128 - floor(sqrt(128)) + 1/4)",
+   "lower": "354006372307933050027909391981112145272645586512290279140064494389207449/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11328203913853857600893100543395588648724658768393288932482063820454638369/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "129": {
+  "reported_lower_bound": {
+   "displayed": "11442206611833/1000000000000",
+   "exact_form": "11442206611833467509308480874205/1000000000000000000000000000000",
+   "lower": "2288441322366693501861696174841/200000000000000000000000000000",
+   "upper": "2288441322366693501861696174841/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "56871407927/5000000000",
+   "exact_form": "1/2 + sqrt(129 - floor(sqrt(129)) + 1/4)",
+   "lower": "5687140792732886368069506261508805177257425342283787624564501223664248977/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2274856317093154547227802504603522070902970136913515049825800489465699591/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "130": {
+  "reported_lower_bound": {
+   "displayed": "717846285041/62500000000",
+   "exact_form": "11485540560656512573001434419806/1000000000000000000000000000000",
+   "lower": "5742770280328256286500717209903/500000000000000000000000000000",
+   "upper": "5742770280328256286500717209903/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "114201648339/10000000000",
+   "exact_form": "1/2 + sqrt(130 - floor(sqrt(130)) + 1/4)",
+   "lower": "11420164833920777406645953737290549190666504523864716157567272686926173607/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1427520604240097175830744217161318648833313065483089519695909085865771701/125000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "131": {
+  "reported_lower_bound": {
+   "displayed": "2886386183797/250000000000",
+   "exact_form": "11545544735188575285759371528017/1000000000000000000000000000000",
+   "lower": "11545544735188575285759371528017/1000000000000000000000000000000",
+   "upper": "11545544735188575285759371528017/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "114658560997/10000000000",
+   "exact_form": "1/2 + sqrt(131 - floor(sqrt(131)) + 1/4)",
+   "lower": "5732928049865327204137017924031890912542998514563063173070169816197034429/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11465856099730654408274035848063781825085997029126126346140339632394068859/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "132": {
+  "reported_lower_bound": {
+   "displayed": "58/5",
+   "exact_form": "11600000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "58/5",
+   "upper": "58/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "115113577727/10000000000",
+   "exact_form": "1/2 + sqrt(132 - floor(sqrt(132)) + 1/4)",
+   "lower": "2302271554554524050237199557840842860244179835873168495583825986605462349/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5755678886386310125592998894602107150610449589682921238959564966513655873/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "133": {
+  "reported_lower_bound": {
+   "displayed": "181845119751/15625000000",
+   "exact_form": "11638087664064484875389458636902/1000000000000000000000000000000",
+   "lower": "5819043832032242437694729318451/500000000000000000000000000000",
+   "upper": "5819043832032242437694729318451/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "115566721937/10000000000",
+   "exact_form": "1/2 + sqrt(133 - floor(sqrt(133)) + 1/4)",
+   "lower": "2889168048436997616255101340240106702240604930340720169387427303002970121/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2311334438749598093004081072192085361792483944272576135509941842402376097/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "134": {
+  "reported_lower_bound": {
+   "displayed": "5844782641761/500000000000",
+   "exact_form": "11689565283522903302966369068882/1000000000000000000000000000000",
+   "lower": "5844782641761451651483184534441/500000000000000000000000000000",
+   "upper": "5844782641761451651483184534441/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "23203603311/2000000000",
+   "exact_form": "1/2 + sqrt(134 - floor(sqrt(134)) + 1/4)",
+   "lower": "2900450413896814694811073067290811992978319253893063680571687488907544927/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11601801655587258779244292269163247971913277015572254722286749955630179709/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "135": {
+  "reported_lower_bound": {
+   "displayed": "2935301805381/250000000000",
+   "exact_form": "11741207221524213779765666821942/1000000000000000000000000000000",
+   "lower": "5870603610762106889882833410971/500000000000000000000000000000",
+   "upper": "5870603610762106889882833410971/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "7279217753/625000000",
+   "exact_form": "1/2 + sqrt(135 - floor(sqrt(135)) + 1/4)",
+   "lower": "2329349680960795347071095706494669948550070500107176878426520031773417151/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2911687101200994183838869633118337435687588125133971098033150039716771439/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "136": {
+  "reported_lower_bound": {
+   "displayed": "589605963529/50000000000",
+   "exact_form": "11792119270580817433297642338079/1000000000000000000000000000000",
+   "lower": "11792119270580817433297642338079/1000000000000000000000000000000",
+   "upper": "11792119270580817433297642338079/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "116915146427/10000000000",
+   "exact_form": "1/2 + sqrt(136 - floor(sqrt(136)) + 1/4)",
+   "lower": "11691514642799695680519688088281828875323248223057967814527854480974341849/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "233830292855993913610393761765636577506464964461159356290557089619486837/20000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "137": {
+  "reported_lower_bound": {
+   "displayed": "5909425332797/500000000000",
+   "exact_form": "11818850665594020921340928589960/1000000000000000000000000000000",
+   "lower": "295471266639850523033523214749/25000000000000000000000000000",
+   "upper": "295471266639850523033523214749/25000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "117361025271/10000000000",
+   "exact_form": "1/2 + sqrt(137 - floor(sqrt(137)) + 1/4)",
+   "lower": "5868051263561057966149535111372669857490491540037814098374228418580189161/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11736102527122115932299070222745339714980983080075628196748456837160378323/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "138": {
+  "reported_lower_bound": {
+   "displayed": "5934836467941/500000000000",
+   "exact_form": "11869672935882783735995767157080/1000000000000000000000000000000",
+   "lower": "296741823397069593399894178927/25000000000000000000000000000",
+   "upper": "296741823397069593399894178927/25000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "58902570863/5000000000",
+   "exact_form": "1/2 + sqrt(138 - floor(sqrt(138)) + 1/4)",
+   "lower": "11780514172678477690916537240574310399421051084175530988773355197747701173/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5890257086339238845458268620287155199710525542087765494386677598873850587/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "139": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "118247516529/10000000000",
+   "exact_form": "1/2 + sqrt(139 - floor(sqrt(139)) + 1/4)",
+   "lower": "1182475165290612454585502721041917558733329205693507020744794035856608293/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "11824751652906124545855027210419175587333292056935070207447940358566082931/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "140": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "118688170009/10000000000",
+   "exact_form": "1/2 + sqrt(140 - floor(sqrt(140)) + 1/4)",
+   "lower": "2373763400180414549721279397462565367198573756747016531491445894231184317/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5934408500451036374303198493656413417996434391867541328728614735577960793/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "141": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  }
+ },
+ "142": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "None",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  }
+ },
+ "143": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "None",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  }
+ },
+ "144": {
+  "reported_lower_bound": {
+   "displayed": "12",
+   "exact_form": "None",
+   "lower": "12",
+   "upper": "12"
+  },
+  "verified_lower_bound": {
+   "displayed": "12",
+   "exact_form": "12",
+   "lower": "12",
+   "upper": "12"
+  }
+ },
+ "145": {
+  "reported_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  }
+ },
+ "146": {
+  "reported_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  }
+ },
+ "147": {
+  "reported_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  }
+ },
+ "148": {
+  "reported_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  },
+  "verified_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  }
+ },
+ "149": {
+  "reported_lower_bound": {
+   "displayed": "12280426986747/1000000000000",
+   "exact_form": "12280426986747428503769608647693/1000000000000000000000000000000",
+   "lower": "12280426986747428503769608647693/1000000000000000000000000000000",
+   "upper": "12280426986747428503769608647693/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "306/25",
+   "exact_form": "306/25",
+   "lower": "306/25",
+   "upper": "306/25"
+  }
+ },
+ "150": {
+  "reported_lower_bound": {
+   "displayed": "2466573952079/200000000000",
+   "exact_form": "12332869760395431422005289390505/1000000000000000000000000000000",
+   "lower": "2466573952079086284401057878101/200000000000000000000000000000",
+   "upper": "2466573952079086284401057878101/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "122579760163/10000000000",
+   "exact_form": "1/2 + sqrt(150 - floor(sqrt(150)) + 1/4)",
+   "lower": "1225797601630484701338699636187576607066158031055976350829371007866098809/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12257976016304847013386996361875766070661580310559763508293710078660988091/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "151": {
+  "reported_lower_bound": {
+   "displayed": "6192658497511/500000000000",
+   "exact_form": "12385316995022649981225893241986/1000000000000000000000000000000",
+   "lower": "6192658497511324990612946620993/500000000000000000000000000000",
+   "upper": "6192658497511324990612946620993/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "30751059303/2500000000",
+   "exact_form": "1/2 + sqrt(151 - floor(sqrt(151)) + 1/4)",
+   "lower": "12300423721205946594540831149540932425021070235968170536599816497083237301/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6150211860602973297270415574770466212510535117984085268299908248541618651/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "152": {
+  "reported_lower_bound": {
+   "displayed": "62078522947/5000000000",
+   "exact_form": "12415704589400421740155918865980/1000000000000000000000000000000",
+   "lower": "620785229470021087007795943299/50000000000000000000000000000",
+   "upper": "620785229470021087007795943299/50000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "123427192823/10000000000",
+   "exact_form": "1/2 + sqrt(152 - floor(sqrt(152)) + 1/4)",
+   "lower": "12342719282327011233292739955925452003931203538192126379314453052755574973/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6171359641163505616646369977962726001965601769096063189657226526377787487/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "153": {
+  "reported_lower_bound": {
+   "displayed": "3111708082723/250000000000",
+   "exact_form": "12446832330892889010549072664797/1000000000000000000000000000000",
+   "lower": "12446832330892889010549072664797/1000000000000000000000000000000",
+   "upper": "12446832330892889010549072664797/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "3096216081/250000000",
+   "exact_form": "1/2 + sqrt(153 - floor(sqrt(153)) + 1/4)",
+   "lower": "6192432162002356422020185818931967370381901376418636321496138873845071463/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12384864324004712844040371637863934740763802752837272642992277747690142927/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "154": {
+  "reported_lower_bound": {
+   "displayed": "12486669250021/1000000000000",
+   "exact_form": "12486669250021968643133242987761/1000000000000000000000000000000",
+   "lower": "12486669250021968643133242987761/1000000000000000000000000000000",
+   "upper": "12486669250021968643133242987761/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "62134302209/5000000000",
+   "exact_form": "1/2 + sqrt(154 - floor(sqrt(154)) + 1/4)",
+   "lower": "12426860441876562848272856619276500216464142149966997720854163654850031679/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "38833938880864258900852676935239063176450444218646867877669261421406349/3125000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "155": {
+  "reported_lower_bound": {
+   "displayed": "3135238576617/250000000000",
+   "exact_form": "12540954306468783969574031785279/1000000000000000000000000000000",
+   "lower": "12540954306468783969574031785279/1000000000000000000000000000000",
+   "upper": "12540954306468783969574031785279/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "24937418407/2000000000",
+   "exact_form": "1/2 + sqrt(155 - floor(sqrt(155)) + 1/4)",
+   "lower": "3117177300896455901726874075319510159084401080368313545645984887154459657/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12468709203585823606907496301278040636337604321473254182583939548617838629/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "156": {
+  "reported_lower_bound": {
+   "displayed": "12591233265143/1000000000000",
+   "exact_form": "12591233265143578179003501158359/1000000000000000000000000000000",
+   "lower": "12591233265143578179003501158359/1000000000000000000000000000000",
+   "upper": "12591233265143578179003501158359/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "62552060747/5000000000",
+   "exact_form": "1/2 + sqrt(156 - floor(sqrt(156)) + 1/4)",
+   "lower": "12510412149464313866186225772695054897529793488374798703014488351224716267/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3127603037366078466546556443173763724382448372093699675753622087806179067/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "157": {
+  "reported_lower_bound": {
+   "displayed": "505015162913/40000000000",
+   "exact_form": "12625379072825314661411226868861/1000000000000000000000000000000",
+   "lower": "12625379072825314661411226868861/1000000000000000000000000000000",
+   "upper": "12625379072825314661411226868861/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "125519707931/10000000000",
+   "exact_form": "1/2 + sqrt(157 - floor(sqrt(157)) + 1/4)",
+   "lower": "3137992698298487413710769182862496290263048334790147993904723187718864997/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12551970793193949654843076731449985161052193339160591975618892750875459989/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "158": {
+  "reported_lower_bound": {
+   "displayed": "395991226929/31250000000",
+   "exact_form": "12671719261728602394979393456480/1000000000000000000000000000000",
+   "lower": "79198245385803764968621209103/6250000000000000000000000000",
+   "upper": "79198245385803764968621209103/6250000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "7870866639/625000000",
+   "exact_form": "1/2 + sqrt(158 - floor(sqrt(158)) + 1/4)",
+   "lower": "6296693311223912239274959922727828348350797229206430040952444291947906213/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12593386622447824478549919845455656696701594458412860081904888583895812427/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "159": {
+  "reported_lower_bound": {
+   "displayed": "12718840536313/1000000000000",
+   "exact_form": "12718840536313777993625266729991/1000000000000000000000000000000",
+   "lower": "12718840536313777993625266729991/1000000000000000000000000000000",
+   "upper": "12718840536313777993625266729991/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "25269322199/2000000000",
+   "exact_form": "1/2 + sqrt(159 - floor(sqrt(159)) + 1/4)",
+   "lower": "6317330549755798495265794083452857995789261930310315630635686937451839511/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12634661099511596990531588166905715991578523860620631261271373874903679023/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "160": {
+  "reported_lower_bound": {
+   "displayed": "3191288291039/250000000000",
+   "exact_form": "12765153164156925060389916070304/1000000000000000000000000000000",
+   "lower": "398911036379903908137184877197/31250000000000000000000000000",
+   "upper": "398911036379903908137184877197/31250000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "63378978309/5000000000",
+   "exact_form": "1/2 + sqrt(160 - floor(sqrt(160)) + 1/4)",
+   "lower": "12675795661885920463798392293494947536872318168153701334778443632399555153/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6337897830942960231899196146747473768436159084076850667389221816199777577/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "161": {
+  "reported_lower_bound": {
+   "displayed": "64/5",
+   "exact_form": "12800000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "64/5",
+   "upper": "64/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "31791979307/2500000000",
+   "exact_form": "1/2 + sqrt(161 - floor(sqrt(161)) + 1/4)",
+   "lower": "635839586143530812342766948562028377590094896181448483530559246728192747/50000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "12716791722870616246855338971240567551801897923628969670611184934563854941/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "162": {
+  "reported_lower_bound": {
+   "displayed": "6417795472363/500000000000",
+   "exact_form": "12835590944726155301428311736545/1000000000000000000000000000000",
+   "lower": "2567118188945231060285662347309/200000000000000000000000000000",
+   "upper": "2567118188945231060285662347309/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "127576506721/10000000000",
+   "exact_form": "1/2 + sqrt(162 - floor(sqrt(162)) + 1/4)",
+   "lower": "12757650672131262853791937874178569850046627523253655121201110436475070297/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6378825336065631426895968937089284925023313761626827560600555218237535149/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "163": {
+  "reported_lower_bound": {
+   "displayed": "3220415743309/250000000000",
+   "exact_form": "12881662973236002718731345280197/1000000000000000000000000000000",
+   "lower": "12881662973236002718731345280197/1000000000000000000000000000000",
+   "upper": "12881662973236002718731345280197/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "63991869381/5000000000",
+   "exact_form": "1/2 + sqrt(163 - floor(sqrt(163)) + 1/4)",
+   "lower": "12798373876248843330250455178022019294923400977863391483489934849757865091/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3199593469062210832562613794505504823730850244465847870872483712439466273/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "164": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "16048703349/1250000000",
+   "exact_form": "1/2 + sqrt(164 - floor(sqrt(164)) + 1/4)",
+   "lower": "12838962679253065963541843273699743656182210641741765195496073993984846413/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6419481339626532981770921636849871828091105320870882597748036996992423207/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "165": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "128794184031/10000000000",
+   "exact_form": "1/2 + sqrt(165 - floor(sqrt(165)) + 1/4)",
+   "lower": "3219854600784986797018476365336625731190741449516487993023770624498987961/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2575883680627989437614781092269300584952593159613190394419016499599190369/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "166": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  }
+ },
+ "167": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "None",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  }
+ },
+ "168": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "None",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  }
+ },
+ "169": {
+  "reported_lower_bound": {
+   "displayed": "13",
+   "exact_form": "None",
+   "lower": "13",
+   "upper": "13"
+  },
+  "verified_lower_bound": {
+   "displayed": "13",
+   "exact_form": "13",
+   "lower": "13",
+   "upper": "13"
+  }
+ },
+ "170": {
+  "reported_lower_bound": {
+   "displayed": "660006130991/50000000000",
+   "exact_form": "6*sqrt(26)/85 + 2*sqrt(2) + 851/85",
+   "lower": "280502605671245716819114106942446341323556711122669687721386345071245030763/21250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "280502605671245716819114106942446341323556711122669687721386345071245030807/21250000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "130399362039/10000000000",
+   "exact_form": "1/2 + sqrt(170 - floor(sqrt(170)) + 1/4)",
+   "lower": "13039936203984452488048708667691724584358519822109444096184814246640943349/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "260798724079689049760974173353834491687170396442188881923696284932818867/20000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "171": {
+  "reported_lower_bound": {
+   "displayed": "660006130991/50000000000",
+   "exact_form": "6*sqrt(26)/85 + 2*sqrt(2) + 851/85",
+   "lower": "280502605671245716819114106942446341323556711122669687721386345071245030763/21250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "280502605671245716819114106942446341323556711122669687721386345071245030807/21250000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "65398728127/5000000000",
+   "exact_form": "1/2 + sqrt(171 - floor(sqrt(171)) + 1/4)",
+   "lower": "13079745625409124305120144959328617526358622905961317611544030141519222907/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3269936406352281076280036239832154381589655726490329402886007535379805727/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "172": {
+  "reported_lower_bound": {
+   "displayed": "660006130991/50000000000",
+   "exact_form": "6*sqrt(26)/85 + 2*sqrt(2) + 851/85",
+   "lower": "280502605671245716819114106942446341323556711122669687721386345071245030763/21250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "280502605671245716819114106942446341323556711122669687721386345071245030807/21250000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "131194294641/10000000000",
+   "exact_form": "1/2 + sqrt(172 - floor(sqrt(172)) + 1/4)",
+   "lower": "13119429464123962525917274436146735811879538008458361744486585696795084319/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "81996434150774765786982965225917098824247112552864760903041160604969277/6250000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "173": {
+  "reported_lower_bound": {
+   "displayed": "13205892716979/1000000000000",
+   "exact_form": "13205892716979600188266204257435/1000000000000000000000000000000",
+   "lower": "2641178543395920037653240851487/200000000000000000000000000000",
+   "upper": "2641178543395920037653240851487/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "131589889011/10000000000",
+   "exact_form": "1/2 + sqrt(173 - floor(sqrt(173)) + 1/4)",
+   "lower": "13158988901172162730888642873062147917162766937873893141938656618690249643/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3289747225293040682722160718265536979290691734468473285484664154672562411/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "174": {
+  "reported_lower_bound": {
+   "displayed": "13253705963717/1000000000000",
+   "exact_form": "13253705963717882199348757148332/1000000000000000000000000000000",
+   "lower": "3313426490929470549837189287083/250000000000000000000000000000",
+   "upper": "3313426490929470549837189287083/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8249015687/625000000",
+   "exact_form": "1/2 + sqrt(174 - floor(sqrt(174)) + 1/4)",
+   "lower": "6599212549600147068618778373805255902928116689344661542506695820213456329/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13198425099200294137237556747610511805856233378689323085013391640426912659/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "175": {
+  "reported_lower_bound": {
+   "displayed": "13301302084963/1000000000000",
+   "exact_form": "13301302084963725433530297926133/1000000000000000000000000000000",
+   "lower": "13301302084963725433530297926133/1000000000000000000000000000000",
+   "upper": "13301302084963725433530297926133/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "33094348007/2500000000",
+   "exact_form": "1/2 + sqrt(175 - floor(sqrt(175)) + 1/4)",
+   "lower": "6618869601428498394594182956473299591933738592506293981504684882799249179/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13237739202856996789188365912946599183867477185012587963009369765598498359/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "176": {
+  "reported_lower_bound": {
+   "displayed": "13348684012099/1000000000000",
+   "exact_form": "13348684012099631101477510083689/1000000000000000000000000000000",
+   "lower": "13348684012099631101477510083689/1000000000000000000000000000000",
+   "upper": "13348684012099631101477510083689/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "132769323391/10000000000",
+   "exact_form": "1/2 + sqrt(176 - floor(sqrt(176)) + 1/4)",
+   "lower": "414904135599394925358077781168034694947206752843745912763269852156684653/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13276932339180637611458488997377110238310616090999869208424635269013908897/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "177": {
+  "reported_lower_bound": {
+   "displayed": "13396830029161/1000000000000",
+   "exact_form": "13396830029161137527825594162347/1000000000000000000000000000000",
+   "lower": "13396830029161137527825594162347/1000000000000000000000000000000",
+   "upper": "13396830029161137527825594162347/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "133160056179/10000000000",
+   "exact_form": "1/2 + sqrt(177 - floor(sqrt(177)) + 1/4)",
+   "lower": "3329001404494074187951868122339889912972920748574980840715744220164368307/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13316005617976296751807472489359559651891682994299923362862976880657473229/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "178": {
+  "reported_lower_bound": {
+   "displayed": "671/50",
+   "exact_form": "13420000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "671/50",
+   "upper": "671/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "133549601321/10000000000",
+   "exact_form": "1/2 + sqrt(178 - floor(sqrt(178)) + 1/4)",
+   "lower": "13354960132182440961613350077697681502362773034567598451188221768111506191/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "834685008261402560100834379856105093897673314660474903199263860506969137/62500000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "179": {
+  "reported_lower_bound": {
+   "displayed": "2627107313/195312500",
+   "exact_form": "13450789442560079854620140152489/1000000000000000000000000000000",
+   "lower": "13450789442560079854620140152489/1000000000000000000000000000000",
+   "upper": "13450789442560079854620140152489/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "66968984791/5000000000",
+   "exact_form": "1/2 + sqrt(179 - floor(sqrt(179)) + 1/4)",
+   "lower": "13393796958227626751649216797831850338410158392526466548891177377368351589/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1339379695822762675164921679783185033841015839252646654889117737736835159/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "180": {
+  "reported_lower_bound": {
+   "displayed": "168595430203/12500000000",
+   "exact_form": "13487634416240439546971473043683/1000000000000000000000000000000",
+   "lower": "13487634416240439546971473043683/1000000000000000000000000000000",
+   "upper": "13487634416240439546971473043683/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "134325171563/10000000000",
+   "exact_form": "1/2 + sqrt(180 - floor(sqrt(180)) + 1/4)",
+   "lower": "13432517156377562679641476225192720246733974901258722031506071878897683811/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3358129289094390669910369056298180061683493725314680507876517969724420953/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "181": {
+  "reported_lower_bound": {
+   "displayed": "13537203054229/1000000000000",
+   "exact_form": "13537203054229343760045922864805/1000000000000000000000000000000",
+   "lower": "2707440610845868752009184572961/200000000000000000000000000000",
+   "upper": "2707440610845868752009184572961/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "13471121771/1000000000",
+   "exact_form": "1/2 + sqrt(181 - floor(sqrt(181)) + 1/4)",
+   "lower": "13471121771072847344753937907671590114902560670098313740213165938319746531/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3367780442768211836188484476917897528725640167524578435053291484579936633/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "182": {
+  "reported_lower_bound": {
+   "displayed": "13582913235247/1000000000000",
+   "exact_form": "13582913235247782126819715568384/1000000000000000000000000000000",
+   "lower": "53058254825186648932889513939/3906250000000000000000000000",
+   "upper": "53058254825186648932889513939/3906250000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "16887014789/1250000000",
+   "exact_form": "1/2 + sqrt(182 - floor(sqrt(182)) + 1/4)",
+   "lower": "6754805915628843725816572312634567792843611484525362944621216708926447841/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13509611831257687451633144625269135585687222969050725889242433417852895683/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "183": {
+  "reported_lower_bound": {
+   "displayed": "6806916765897/500000000000",
+   "exact_form": "13613833531794956650722991072135/1000000000000000000000000000000",
+   "lower": "2722766706358991330144598214427/200000000000000000000000000000",
+   "upper": "2722766706358991330144598214427/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "67739941753/5000000000",
+   "exact_form": "1/2 + sqrt(183 - floor(sqrt(183)) + 1/4)",
+   "lower": "13547988350699888634538448062733130302246844048422676486788202539705071633/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6773994175349944317269224031366565151123422024211338243394101269852535817/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "184": {
+  "reported_lower_bound": {
+   "displayed": "13657214114623/1000000000000",
+   "exact_form": "13657214114623185928918328615112/1000000000000000000000000000000",
+   "lower": "1707151764327898241114791076889/125000000000000000000000000000",
+   "upper": "1707151764327898241114791076889/125000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "135862523283/10000000000",
+   "exact_form": "1/2 + sqrt(184 - floor(sqrt(184)) + 1/4)",
+   "lower": "3396563082075600143355922094111184867021614928963024763274864073086636881/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "543450093132096022936947535057789578723458388634083962123978251693861901/40000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "185": {
+  "reported_lower_bound": {
+   "displayed": "13700237553483/1000000000000",
+   "exact_form": "13700237553483878048528452634989/1000000000000000000000000000000",
+   "lower": "13700237553483878048528452634989/1000000000000000000000000000000",
+   "upper": "13700237553483878048528452634989/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "34061011871/2500000000",
+   "exact_form": "1/2 + sqrt(185 - floor(sqrt(185)) + 1/4)",
+   "lower": "13624404748406687263186597263495252400844992342980293832802092054885664593/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6812202374203343631593298631747626200422496171490146916401046027442832297/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "186": {
+  "reported_lower_bound": {
+   "displayed": "1717837251213/125000000000",
+   "exact_form": "13742698009704946149446427106143/1000000000000000000000000000000",
+   "lower": "13742698009704946149446427106143/1000000000000000000000000000000",
+   "upper": "13742698009704946149446427106143/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "13662446581/1000000000",
+   "exact_form": "1/2 + sqrt(186 - floor(sqrt(186)) + 1/4)",
+   "lower": "13662446581088183090609582461124464341313815241331755386391543444674146969/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1366244658108818309060958246112446434131381524133175538639154344467414697/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "187": {
+  "reported_lower_bound": {
+   "displayed": "13785006185483/1000000000000",
+   "exact_form": "13785006185483284906447808399613/1000000000000000000000000000000",
+   "lower": "13785006185483284906447808399613/1000000000000000000000000000000",
+   "upper": "13785006185483284906447808399613/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8562736739/625000000",
+   "exact_form": "1/2 + sqrt(187 - floor(sqrt(187)) + 1/4)",
+   "lower": "6850189391222042804025250204610424362558478719340611209942142273152710253/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13700378782444085608050500409220848725116957438681222419884284546305420507/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "188": {
+  "reported_lower_bound": {
+   "displayed": "6903593972219/500000000000",
+   "exact_form": "13807187944438919799750826430876/1000000000000000000000000000000",
+   "lower": "3451796986109729949937706607719/250000000000000000000000000000",
+   "upper": "3451796986109729949937706607719/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "34345505737/2500000000",
+   "exact_form": "1/2 + sqrt(188 - floor(sqrt(188)) + 1/4)",
+   "lower": "13738202294873726547211071116779635302757099564445848964157827057557999467/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3434550573718431636802767779194908825689274891111462241039456764389499867/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "189": {
+  "reported_lower_bound": {
+   "displayed": "13849480973127/1000000000000",
+   "exact_form": "13849480973127428924862626637528/1000000000000000000000000000000",
+   "lower": "1731185121640928615607828329691/125000000000000000000000000000",
+   "upper": "1731185121640928615607828329691/125000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "137759180473/10000000000",
+   "exact_form": "1/2 + sqrt(189 - floor(sqrt(189)) + 1/4)",
+   "lower": "13775918047351753669983929713077598235975520608653935029610020775946670293/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6887959023675876834991964856538799117987760304326967514805010387973335147/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "190": {
+  "reported_lower_bound": {
+   "displayed": "13891623509311/1000000000000",
+   "exact_form": "13891623509311890049718446654665/1000000000000000000000000000000",
+   "lower": "2778324701862378009943689330933/200000000000000000000000000000",
+   "upper": "2778324701862378009943689330933/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "34533817389/2500000000",
+   "exact_form": "1/2 + sqrt(190 - floor(sqrt(190)) + 1/4)",
+   "lower": "1726690869461793435902677946539436058798249374279175880855757847974626131/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13813526955694347487221423572315488470385994994233407046846062783797009049/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "191": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "34627574807/2500000000",
+   "exact_form": "1/2 + sqrt(191 - floor(sqrt(191)) + 1/4)",
+   "lower": "13851029922818688672074183853297838839766551897460157845626164328278788513/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "6925514961409344336037091926648919419883275948730078922813082164139394257/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "192": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "138884278389/10000000000",
+   "exact_form": "1/2 + sqrt(192 - floor(sqrt(192)) + 1/4)",
+   "lower": "277768556779917682701564869717976112142261556937383321653813203034666839/20000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "13888427838995884135078243485898805607113077846869166082690660151733341951/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "193": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  }
+ },
+ "194": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "None",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  }
+ },
+ "195": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "None",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  }
+ },
+ "196": {
+  "reported_lower_bound": {
+   "displayed": "14",
+   "exact_form": "None",
+   "lower": "14",
+   "upper": "14"
+  },
+  "verified_lower_bound": {
+   "displayed": "14",
+   "exact_form": "14",
+   "lower": "14",
+   "upper": "14"
+  }
+ },
+ "197": {
+  "reported_lower_bound": {
+   "displayed": "1418776486123/100000000000",
+   "exact_form": "26*sqrt(7)/197 + 2*sqrt(2) + 2169/197",
+   "lower": "279498967766267880458090736693324181402491745765866124552118851270757638573/19700000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "55899793553253576091618147338664836280498349153173224910423770254151527723/3940000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "70184931853/5000000000",
+   "exact_form": "1/2 + sqrt(197 - floor(sqrt(197)) + 1/4)",
+   "lower": "3509246592670220891449567862439107181368786178625330954890424999508693713/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14036986370680883565798271449756428725475144714501323819561699998034774853/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "198": {
+  "reported_lower_bound": {
+   "displayed": "1418776486123/100000000000",
+   "exact_form": "26*sqrt(7)/197 + 2*sqrt(2) + 2169/197",
+   "lower": "279498967766267880458090736693324181402491745765866124552118851270757638573/19700000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "55899793553253576091618147338664836280498349153173224910423770254151527723/3940000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "35184679901/2500000000",
+   "exact_form": "1/2 + sqrt(198 - floor(sqrt(198)) + 1/4)",
+   "lower": "14073871960498227714229587043517889531802958621335753264082940083418065651/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3518467990124556928557396760879472382950739655333938316020735020854516413/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "199": {
+  "reported_lower_bound": {
+   "displayed": "1418776486123/100000000000",
+   "exact_form": "26*sqrt(7)/197 + 2*sqrt(2) + 2169/197",
+   "lower": "279498967766267880458090736693324181402491745765866124552118851270757638573/19700000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "55899793553253576091618147338664836280498349153173224910423770254151527723/3940000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8819160993/625000000",
+   "exact_form": "1/2 + sqrt(199 - floor(sqrt(199)) + 1/4)",
+   "lower": "7055328794408099720966505782155972354104703081667396344994567468804572707/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2822131517763239888386602312862388941641881232666958537997826987521829083/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "200": {
+  "reported_lower_bound": {
+   "displayed": "1418776486123/100000000000",
+   "exact_form": "26*sqrt(7)/197 + 2*sqrt(2) + 2169/197",
+   "lower": "279498967766267880458090736693324181402491745765866124552118851270757638573/19700000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "55899793553253576091618147338664836280498349153173224910423770254151527723/3940000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "141473440639/10000000000",
+   "exact_form": "1/2 + sqrt(200 - floor(sqrt(200)) + 1/4)",
+   "lower": "7073672031978090313939601718365289598756117350306381141129114775437034893/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14147344063956180627879203436730579197512234700612762282258229550874069787/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "201": {
+  "reported_lower_bound": {
+   "displayed": "3557896814957/250000000000",
+   "exact_form": "14231587259828437124855485842297/1000000000000000000000000000000",
+   "lower": "14231587259828437124855485842297/1000000000000000000000000000000",
+   "upper": "14231587259828437124855485842297/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "70919660917/5000000000",
+   "exact_form": "1/2 + sqrt(201 - floor(sqrt(201)) + 1/4)",
+   "lower": "14183932183404008671008070027123660915220629257215179636978507591731078693/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7091966091702004335504035013561830457610314628607589818489253795865539347/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "202": {
+  "reported_lower_bound": {
+   "displayed": "7137568895547/500000000000",
+   "exact_form": "14275137791094952458820379644716/1000000000000000000000000000000",
+   "lower": "3568784447773738114705094911179/250000000000000000000000000000",
+   "upper": "3568784447773738114705094911179/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "7110211367/500000000",
+   "exact_form": "1/2 + sqrt(202 - floor(sqrt(202)) + 1/4)",
+   "lower": "711021136700612162705394107178988122690259192201091832725835021211486691/50000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14220422734012243254107882143579762453805183844021836654516700424229733821/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "203": {
+  "reported_lower_bound": {
+   "displayed": "14318524055731/1000000000000",
+   "exact_form": "14318524055731197286063120570042/1000000000000000000000000000000",
+   "lower": "7159262027865598643031560285021/500000000000000000000000000000",
+   "upper": "7159262027865598643031560285021/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "142568164921/10000000000",
+   "exact_form": "1/2 + sqrt(203 - floor(sqrt(203)) + 1/4)",
+   "lower": "712840824609880218179697719913963922252778509961196601271179536784496901/50000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14256816492197604363593954398279278445055570199223932025423590735689938021/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "204": {
+  "reported_lower_bound": {
+   "displayed": "7180873949303/500000000000",
+   "exact_form": "14361747898606600501270584653579/1000000000000000000000000000000",
+   "lower": "14361747898606600501270584653579/1000000000000000000000000000000",
+   "upper": "14361747898606600501270584653579/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "142931142241/10000000000",
+   "exact_form": "1/2 + sqrt(204 - floor(sqrt(204)) + 1/4)",
+   "lower": "357327855603343042916264946990059829085668941727761081740316420327907339/25000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14293114224133721716650597879602393163426757669110443269612656813116293561/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "205": {
+  "reported_lower_bound": {
+   "displayed": "72/5",
+   "exact_form": "14400000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "72/5",
+   "upper": "72/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "143293166859/10000000000",
+   "exact_form": "1/2 + sqrt(205 - floor(sqrt(205)) + 1/4)",
+   "lower": "716465834296966548250170571132209486793510378654184800600581415408200327/50000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14329316685939330965003411422644189735870207573083696012011628308164006541/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "206": {
+  "reported_lower_bound": {
+   "displayed": "721/50",
+   "exact_form": "14420000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "721/50",
+   "upper": "721/50"
+  },
+  "verified_lower_bound": {
+   "displayed": "71827123119/5000000000",
+   "exact_form": "1/2 + sqrt(206 - floor(sqrt(206)) + 1/4)",
+   "lower": "57461698495448189798760680074483236948129195876152619219686332015571767/4000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14365424623862047449690170018620809237032298969038154804921583003892941751/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "207": {
+  "reported_lower_bound": {
+   "displayed": "2890816604593/200000000000",
+   "exact_form": "14454083022965484475890543092597/1000000000000000000000000000000",
+   "lower": "14454083022965484475890543092597/1000000000000000000000000000000",
+   "upper": "14454083022965484475890543092597/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "4500449617/312500000",
+   "exact_form": "1/2 + sqrt(207 - floor(sqrt(207)) + 1/4)",
+   "lower": "14401438774457843865327028594766316297819289098823211480607112746169266001/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7200719387228921932663514297383158148909644549411605740303556373084633001/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "208": {
+  "reported_lower_bound": {
+   "displayed": "3622117302097/250000000000",
+   "exact_form": "14488469208388579699639184572434/1000000000000000000000000000000",
+   "lower": "7244234604194289849819592286217/500000000000000000000000000000",
+   "upper": "7244234604194289849819592286217/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "144373598647/10000000000",
+   "exact_form": "1/2 + sqrt(208 - floor(sqrt(208)) + 1/4)",
+   "lower": "7218679932383176973828992280279063314936974037987136538299489757279490109/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14437359864766353947657984560558126629873948075974273076598979514558980219/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "209": {
+  "reported_lower_bound": {
+   "displayed": "581363217523/40000000000",
+   "exact_form": "14534080438075709123990508478096/1000000000000000000000000000000",
+   "lower": "908380027379731820249406779881/62500000000000000000000000000",
+   "upper": "908380027379731820249406779881/62500000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "36182971531/2500000000",
+   "exact_form": "1/2 + sqrt(209 - floor(sqrt(209)) + 1/4)",
+   "lower": "113071786035016564196477907788928648213856590910052698435651743380084519/7812500000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14473188612482120217149172196982866971373643636486745399763423152650818433/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "210": {
+  "reported_lower_bound": {
+   "displayed": "7287989727923/500000000000",
+   "exact_form": "14575979455846816681089818532886/1000000000000000000000000000000",
+   "lower": "7287989727923408340544909266443/500000000000000000000000000000",
+   "upper": "7287989727923408340544909266443/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "145089257261/10000000000",
+   "exact_form": "1/2 + sqrt(210 - floor(sqrt(210)) + 1/4)",
+   "lower": "14508925726121899886928743804290149160128578868550256531486046084879360613/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7254462863060949943464371902145074580064289434275128265743023042439680307/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "211": {
+  "reported_lower_bound": {
+   "displayed": "7302546348543/500000000000",
+   "exact_form": "14605092697086963293841481275918/1000000000000000000000000000000",
+   "lower": "7302546348543481646920740637959/500000000000000000000000000000",
+   "upper": "7302546348543481646920740637959/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "145445719051/10000000000",
+   "exact_form": "1/2 + sqrt(211 - floor(sqrt(211)) + 1/4)",
+   "lower": "14544571905188139268705057892455965393269646878056244511686055016098824941/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7272285952594069634352528946227982696634823439028122255843027508049412471/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "212": {
+  "reported_lower_bound": {
+   "displayed": "7322373326861/500000000000",
+   "exact_form": "14644746653722570378106085943507/1000000000000000000000000000000",
+   "lower": "14644746653722570378106085943507/1000000000000000000000000000000",
+   "upper": "14644746653722570378106085943507/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "145801278403/10000000000",
+   "exact_form": "1/2 + sqrt(212 - floor(sqrt(212)) + 1/4)",
+   "lower": "7290063920164361689486832474315732779830060706609362260010807175772536707/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2916025568065744675794732989726293111932024282643744904004322870309014683/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "213": {
+  "reported_lower_bound": {
+   "displayed": "14684204541319/1000000000000",
+   "exact_form": "14684204541319840699833494720795/1000000000000000000000000000000",
+   "lower": "2936840908263968139966698944159/200000000000000000000000000000",
+   "upper": "2936840908263968139966698944159/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "73077971067/5000000000",
+   "exact_form": "1/2 + sqrt(213 - floor(sqrt(213)) + 1/4)",
+   "lower": "1826949276686637994213591738553989340683945840461856933447497034278464507/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14615594213493103953708733908431914725471566723694855467579976274227716057/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "214": {
+  "reported_lower_bound": {
+   "displayed": "14723718549163/1000000000000",
+   "exact_form": "14723718549163610565661088182366/1000000000000000000000000000000",
+   "lower": "7361859274581805282830544091183/500000000000000000000000000000",
+   "upper": "7361859274581805282830544091183/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "7325485849/500000000",
+   "exact_form": "1/2 + sqrt(214 - floor(sqrt(214)) + 1/4)",
+   "lower": "3662742924521226429245247641608490268868858487530670495248618043367508591/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2930194339616981143396198113286792215095086790024536396198894434694006873/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "215": {
+  "reported_lower_bound": {
+   "displayed": "14762788837693/1000000000000",
+   "exact_form": "14762788837693069711812503275249/1000000000000000000000000000000",
+   "lower": "14762788837693069711812503275249/1000000000000000000000000000000",
+   "upper": "14762788837693069711812503275249/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "146862609591/10000000000",
+   "exact_form": "1/2 + sqrt(215 - floor(sqrt(215)) + 1/4)",
+   "lower": "3671565239777776877995710701214489255139906518361582115242025162382889783/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14686260959111107511982842804857957020559626073446328460968100649531559133/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "216": {
+  "reported_lower_bound": {
+   "displayed": "74/5",
+   "exact_form": "14800000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "74/5",
+   "upper": "74/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "147214626533/10000000000",
+   "exact_form": "1/2 + sqrt(216 - floor(sqrt(216)) + 1/4)",
+   "lower": "14721462653327891786465618438254474291068393486515541515559809617772219593/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7360731326663945893232809219127237145534196743257770757779904808886109797/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "217": {
+  "reported_lower_bound": {
+   "displayed": "14822241202431/1000000000000",
+   "exact_form": "14822241202431379842857214926127/1000000000000000000000000000000",
+   "lower": "14822241202431379842857214926127/1000000000000000000000000000000",
+   "upper": "14822241202431379842857214926127/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "147565774293/10000000000",
+   "exact_form": "1/2 + sqrt(217 - floor(sqrt(217)) + 1/4)",
+   "lower": "1475657742938325292354616780711040724407146111556585595700488418796738477/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "14756577429383252923546167807110407244071461115565855957004884187967384771/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "218": {
+  "reported_lower_bound": {
+   "displayed": "14861195169727/1000000000000",
+   "exact_form": "14861195169727402972852828501421/1000000000000000000000000000000",
+   "lower": "14861195169727402972852828501421/1000000000000000000000000000000",
+   "upper": "14861195169727402972852828501421/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "147916059279/10000000000",
+   "exact_form": "1/2 + sqrt(218 - floor(sqrt(218)) + 1/4)",
+   "lower": "2958321185591290403679804734490706571819574878488004873448781824578410883/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "924475370497278251149938979528345803693617149527501522952744320180753401/62500000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "219": {
+  "reported_lower_bound": {
+   "displayed": "3725007863451/250000000000",
+   "exact_form": "14900031453804376513713085816520/1000000000000000000000000000000",
+   "lower": "372500786345109412842827145413/25000000000000000000000000000",
+   "upper": "372500786345109412842827145413/25000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "74132743909/5000000000",
+   "exact_form": "1/2 + sqrt(219 - floor(sqrt(219)) + 1/4)",
+   "lower": "14826548781894402916918391199180738454570183724545458394694475160794329761/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7413274390947201458459195599590369227285091862272729197347237580397164881/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "220": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "148614066163/10000000000",
+   "exact_form": "1/2 + sqrt(220 - floor(sqrt(220)) + 1/4)",
+   "lower": "14861406616345071649626528670547323295550661144956980919249693676414751803/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3715351654086267912406632167636830823887665286239245229812423419103687951/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "221": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "18620225061/1250000000",
+   "exact_form": "1/2 + sqrt(221 - floor(sqrt(221)) + 1/4)",
+   "lower": "931011253055498050546148582809431746550964091366525987063096689104319779/62500000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2979236009777593761747675464990181588963085092372883158601909405133823293/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "222": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  }
+ },
+ "223": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "None",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  }
+ },
+ "224": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "None",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  }
+ },
+ "225": {
+  "reported_lower_bound": {
+   "displayed": "15",
+   "exact_form": "None",
+   "lower": "15",
+   "upper": "15"
+  },
+  "verified_lower_bound": {
+   "displayed": "15",
+   "exact_form": "15",
+   "lower": "15",
+   "upper": "15"
+  }
+ },
+ "226": {
+  "reported_lower_bound": {
+   "displayed": "758828692089/50000000000",
+   "exact_form": "7*sqrt(30)/113 + 2*sqrt(2) + 1357/113",
+   "lower": "68598113764867244358846781458697916605337518899401963693352489290687202777/4520000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "857476422060840554485584768233723957566718986242524546166906116133590034829/56500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "150344418537/10000000000",
+   "exact_form": "1/2 + sqrt(226 - floor(sqrt(226)) + 1/4)",
+   "lower": "469826307929644782083113401461040485323875604296091162742526002974012063/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15034441853748633026659628846753295530364019337474917207760832095168386017/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "227": {
+  "reported_lower_bound": {
+   "displayed": "758828692089/50000000000",
+   "exact_form": "7*sqrt(30)/113 + 2*sqrt(2) + 1357/113",
+   "lower": "68598113764867244358846781458697916605337518899401963693352489290687202777/4520000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "857476422060840554485584768233723957566718986242524546166906116133590034829/56500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "150688022843/10000000000",
+   "exact_form": "1/2 + sqrt(227 - floor(sqrt(227)) + 1/4)",
+   "lower": "15068802284333465413095752354238925823364781552207668748261748314233541937/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7534401142166732706547876177119462911682390776103834374130874157116770969/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "228": {
+  "reported_lower_bound": {
+   "displayed": "758828692089/50000000000",
+   "exact_form": "7*sqrt(30)/113 + 2*sqrt(2) + 1357/113",
+   "lower": "68598113764867244358846781458697916605337518899401963693352489290687202777/4520000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "857476422060840554485584768233723957566718986242524546166906116133590034829/56500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "30206163733/2000000000",
+   "exact_form": "1/2 + sqrt(228 - floor(sqrt(228)) + 1/4)",
+   "lower": "15103081866510233325420010418560740463016925423517518915720030231476286109/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1510308186651023332542001041856074046301692542351751891572003023147628611/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "229": {
+  "reported_lower_bound": {
+   "displayed": "758828692089/50000000000",
+   "exact_form": "7*sqrt(30)/113 + 2*sqrt(2) + 1357/113",
+   "lower": "68598113764867244358846781458697916605337518899401963693352489290687202777/4520000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "857476422060840554485584768233723957566718986242524546166906116133590034829/56500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "151372811683/10000000000",
+   "exact_form": "1/2 + sqrt(229 - floor(sqrt(229)) + 1/4)",
+   "lower": "605491246732177884230839162574987401903649253294502349678769383740346401/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7568640584152223552885489532187342523795615666181279370984617296754330013/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "230": {
+  "reported_lower_bound": {
+   "displayed": "15212985634623/1000000000000",
+   "exact_form": "15212985634623918034318218070316/1000000000000000000000000000000",
+   "lower": "3803246408655979508579554517579/250000000000000000000000000000",
+   "upper": "3803246408655979508579554517579/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "151714007511/10000000000",
+   "exact_form": "1/2 + sqrt(230 - floor(sqrt(230)) + 1/4)",
+   "lower": "7585700375560604915293157821276823301548565569307001595498562437337399419/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15171400751121209830586315642553646603097131138614003190997124874674798839/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "231": {
+  "reported_lower_bound": {
+   "displayed": "7626556052543/500000000000",
+   "exact_form": "15253112105086321108244460259442/1000000000000000000000000000000",
+   "lower": "7626556052543160554122230129721/500000000000000000000000000000",
+   "upper": "7626556052543160554122230129721/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "76027205849/5000000000",
+   "exact_form": "1/2 + sqrt(231 - floor(sqrt(231)) + 1/4)",
+   "lower": "7602720584926371319806828945170164639161249192165797968443571538890636041/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15205441169852742639613657890340329278322498384331595936887143077781272083/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "232": {
+  "reported_lower_bound": {
+   "displayed": "15293109978103/1000000000000",
+   "exact_form": "15293109978103125446064557336514/1000000000000000000000000000000",
+   "lower": "7646554989051562723032278668257/500000000000000000000000000000",
+   "upper": "7646554989051562723032278668257/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "152394029729/10000000000",
+   "exact_form": "1/2 + sqrt(232 - floor(sqrt(232)) + 1/4)",
+   "lower": "3047880594596735018847901699861150210995166680427416723641671722899193951/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3809850743245918773559877124826437763743958350534270904552089653623992439/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "233": {
+  "reported_lower_bound": {
+   "displayed": "7666490241097/500000000000",
+   "exact_form": "15332980482194826937258139101026/1000000000000000000000000000000",
+   "lower": "7666490241097413468629069550513/500000000000000000000000000000",
+   "upper": "7666490241097413468629069550513/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "76366433513/5000000000",
+   "exact_form": "1/2 + sqrt(233 - floor(sqrt(233)) + 1/4)",
+   "lower": "122186293621553256660954536979011493780353635449313170060677854358037287/8000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3818321675673539270654829280594109180636051107791036564396182948688665219/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "234": {
+  "reported_lower_bound": {
+   "displayed": "3074544965289/200000000000",
+   "exact_form": "15372724826445056264380125228320/1000000000000000000000000000000",
+   "lower": "96079530165281601652375782677/6250000000000000000000000000",
+   "upper": "96079530165281601652375782677/6250000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "153070928949/10000000000",
+   "exact_form": "1/2 + sqrt(234 - floor(sqrt(234)) + 1/4)",
+   "lower": "478346652967526472117510210816593402674273001664087171284595161754187841/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15307092894960847107760326746130988885576736053250789481107045176134010913/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "235": {
+  "reported_lower_bound": {
+   "displayed": "7701473184581/500000000000",
+   "exact_form": "15402946369162371566857962109223/1000000000000000000000000000000",
+   "lower": "15402946369162371566857962109223/1000000000000000000000000000000",
+   "upper": "15402946369162371566857962109223/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "38352055199/2500000000",
+   "exact_form": "1/2 + sqrt(235 - floor(sqrt(235)) + 1/4)",
+   "lower": "15340822079655830170827084907977250221291788515938302320821036382788416121/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7670411039827915085413542453988625110645894257969151160410518191394208061/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "236": {
+  "reported_lower_bound": {
+   "displayed": "1928092178553/125000000000",
+   "exact_form": "15424737428424020507954737963467/1000000000000000000000000000000",
+   "lower": "15424737428424020507954737963467/1000000000000000000000000000000",
+   "upper": "15424737428424020507954737963467/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "76872373903/5000000000",
+   "exact_form": "1/2 + sqrt(236 - floor(sqrt(236)) + 1/4)",
+   "lower": "7687237390321758446646576081795042880363380171402085619068036564596360393/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15374474780643516893293152163590085760726760342804171238136073129192720787/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "237": {
+  "reported_lower_bound": {
+   "displayed": "3091418190619/200000000000",
+   "exact_form": "15457090953095929454106610296136/1000000000000000000000000000000",
+   "lower": "1932136369136991181763326287017/125000000000000000000000000000",
+   "upper": "1932136369136991181763326287017/125000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "77040257579/5000000000",
+   "exact_form": "1/2 + sqrt(237 - floor(sqrt(237)) + 1/4)",
+   "lower": "7704025757937787003015889601317249370205215621875211985604690736009182127/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3081610303175114801206355840526899748082086248750084794241876294403672851/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "238": {
+  "reported_lower_bound": {
+   "displayed": "7744599189959/500000000000",
+   "exact_form": "15489198379918905515504121954001/1000000000000000000000000000000",
+   "lower": "15489198379918905515504121954001/1000000000000000000000000000000",
+   "upper": "15489198379918905515504121954001/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "77207763987/5000000000",
+   "exact_form": "1/2 + sqrt(238 - floor(sqrt(238)) + 1/4)",
+   "lower": "1544155279748393486899398489079848795989790968798457840528587881413287351/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15441552797483934868993984890798487959897909687984578405285878814132873511/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "239": {
+  "reported_lower_bound": {
+   "displayed": "7765720416131/500000000000",
+   "exact_form": "15531440832262968642134276202010/1000000000000000000000000000000",
+   "lower": "1553144083226296864213427620201/100000000000000000000000000000",
+   "upper": "1553144083226296864213427620201/100000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "77374895659/5000000000",
+   "exact_form": "1/2 + sqrt(239 - floor(sqrt(239)) + 1/4)",
+   "lower": "7737489565935968634910809569486404731036028448393178640018514178409282121/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15474979131871937269821619138972809462072056896786357280037028356818564243/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "240": {
+  "reported_lower_bound": {
+   "displayed": "15570112982433/1000000000000",
+   "exact_form": "15570112982433339919302078541232/1000000000000000000000000000000",
+   "lower": "973132061402083744956379908827/62500000000000000000000000000",
+   "upper": "973132061402083744956379908827/62500000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "77541655099/5000000000",
+   "exact_form": "1/2 + sqrt(240 - floor(sqrt(240)) + 1/4)",
+   "lower": "3877082754950908595431231371387684849000223610766330800942381700657222993/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15508331019803634381724925485550739396000894443065323203769526802628891973/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "241": {
+  "reported_lower_bound": {
+   "displayed": "78/5",
+   "exact_form": "15600000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "78/5",
+   "upper": "78/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "38854022391/2500000000",
+   "exact_form": "1/2 + sqrt(241 - floor(sqrt(241)) + 1/4)",
+   "lower": "7770804478245661719218254241638239515910506728026543378675906054618315971/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15541608956491323438436508483276479031821013456053086757351812109236631943/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "242": {
+  "reported_lower_bound": {
+   "displayed": "15634313327513/1000000000000",
+   "exact_form": "15634313327513366521426322328127/1000000000000000000000000000000",
+   "lower": "15634313327513366521426322328127/1000000000000000000000000000000",
+   "upper": "15634313327513366521426322328127/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "38937033579/2500000000",
+   "exact_form": "1/2 + sqrt(242 - floor(sqrt(242)) + 1/4)",
+   "lower": "15574813431681335405328897369139364280417535205039565935859242445992736847/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "973425839480083462833056085571210267526095950314972870991202652874546053/62500000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "243": {
+  "reported_lower_bound": {
+   "displayed": "15670624458211/1000000000000",
+   "exact_form": "15670624458211314162402381499791/1000000000000000000000000000000",
+   "lower": "15670624458211314162402381499791/1000000000000000000000000000000",
+   "upper": "15670624458211314162402381499791/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "156079449297/10000000000",
+   "exact_form": "1/2 + sqrt(243 - floor(sqrt(243)) + 1/4)",
+   "lower": "7803972464869063844607411851560873276861719242203657289237031668515094981/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15607944929738127689214823703121746553723438484407314578474063337030189963/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "244": {
+  "reported_lower_bound": {
+   "displayed": "3926867873201/250000000000",
+   "exact_form": "15707471492804420579427126793113/1000000000000000000000000000000",
+   "lower": "15707471492804420579427126793113/1000000000000000000000000000000",
+   "upper": "15707471492804420579427126793113/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "156410039297/10000000000",
+   "exact_form": "1/2 + sqrt(244 - floor(sqrt(244)) + 1/4)",
+   "lower": "15641003929726720733369670238320517665118366978459276090585591635432658513/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7820501964863360366684835119160258832559183489229638045292795817716329257/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "245": {
+  "reported_lower_bound": {
+   "displayed": "15743756466907/1000000000000",
+   "exact_form": "15743756466907107672614883523466/1000000000000000000000000000000",
+   "lower": "7871878233453553836307441761733/500000000000000000000000000000",
+   "upper": "7871878233453553836307441761733/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "78369954527/5000000000",
+   "exact_form": "1/2 + sqrt(245 - floor(sqrt(245)) + 1/4)",
+   "lower": "7836995452746759093710496062121580309643451029855561471651893317593986527/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3134798181098703637484198424848632123857380411942224588660757327037594611/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "246": {
+  "reported_lower_bound": {
+   "displayed": "15779946271037/1000000000000",
+   "exact_form": "15779946271037001925303833421219/1000000000000000000000000000000",
+   "lower": "15779946271037001925303833421219/1000000000000000000000000000000",
+   "upper": "15779946271037001925303833421219/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "157069063257/10000000000",
+   "exact_form": "1/2 + sqrt(246 - floor(sqrt(246)) + 1/4)",
+   "lower": "15706906325745549222499210613005167655212425236966027966047882616215831813/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "7853453162872774611249605306502583827606212618483013983023941308107915907/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "247": {
+  "reported_lower_bound": {
+   "displayed": "79/5",
+   "exact_form": "15800000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "79/5",
+   "upper": "79/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "157397506541/10000000000",
+   "exact_form": "1/2 + sqrt(247 - floor(sqrt(247)) + 1/4)",
+   "lower": "1573975065412817047905433441248148988329403068124730590148769703427944377/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15739750654128170479054334412481489883294030681247305901487697034279443771/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "248": {
+  "reported_lower_bound": {
+   "displayed": "7917550599571/500000000000",
+   "exact_form": "15835101199142438070392797115239/1000000000000000000000000000000",
+   "lower": "15835101199142438070392797115239/1000000000000000000000000000000",
+   "upper": "15835101199142438070392797115239/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "157725243493/10000000000",
+   "exact_form": "1/2 + sqrt(248 - floor(sqrt(248)) + 1/4)",
+   "lower": "1971565543662658010836269218828627432451172846609999812880589206346325211/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15772524349301264086690153750629019459609382772879998503044713650770601689/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "249": {
+  "reported_lower_bound": {
+   "displayed": "7935604920869/500000000000",
+   "exact_form": "15871209841738410099122027675779/1000000000000000000000000000000",
+   "lower": "15871209841738410099122027675779/1000000000000000000000000000000",
+   "upper": "15871209841738410099122027675779/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "3161045573/200000000",
+   "exact_form": "1/2 + sqrt(249 - floor(sqrt(249)) + 1/4)",
+   "lower": "3161045573002793436195598940322314031376040647942957938960534827620917759/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3951306966253491795244498675402892539220050809928697423700668534526147199/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "250": {
+  "reported_lower_bound": {
+   "displayed": "1590722469153/100000000000",
+   "exact_form": "15907224691530605344972969345256/1000000000000000000000000000000",
+   "lower": "1988403086441325668121621168157/125000000000000000000000000000",
+   "upper": "1988403086441325668121621168157/125000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "158378616501/10000000000",
+   "exact_form": "1/2 + sqrt(250 - floor(sqrt(250)) + 1/4)",
+   "lower": "15837861650177967360266557353471751826075345977683483622544099294898736549/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "316757233003559347205331147069435036521506919553669672450881985897974731/20000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "251": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "158704261489/10000000000",
+   "exact_form": "1/2 + sqrt(251 - floor(sqrt(251)) + 1/4)",
+   "lower": "7935213074469698787415779010390788993051274497591124697156483874917760989/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "15870426148939397574831558020781577986102548995182249394312967749835521979/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "252": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "159029218007/10000000000",
+   "exact_form": "1/2 + sqrt(252 - floor(sqrt(252)) + 1/4)",
+   "lower": "15902921800749363020184860480950420211293889315304266665706549482292952429/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1590292180074936302018486048095042021129388931530426666570654948229295243/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "253": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  }
+ },
+ "254": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "None",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  }
+ },
+ "255": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "None",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  }
+ },
+ "256": {
+  "reported_lower_bound": {
+   "displayed": "16",
+   "exact_form": "None",
+   "lower": "16",
+   "upper": "16"
+  },
+  "verified_lower_bound": {
+   "displayed": "16",
+   "exact_form": "16",
+   "lower": "16",
+   "upper": "16"
+  }
+ },
+ "257": {
+  "reported_lower_bound": {
+   "displayed": "323327516327/20000000000",
+   "exact_form": "574*sqrt(2)/257 + 3343/257",
+   "lower": "1038689646200539139503042331924091674274747914116592048500853542401670110593/64250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2077379292401078279006084663848183348549495828233184097001707084803340221473/128500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "16032224567/1000000000",
+   "exact_form": "1/2 + sqrt(257 - floor(sqrt(257)) + 1/4)",
+   "lower": "8016112283504533518521203045081482944603068714890135906155650837902468499/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16032224567009067037042406090162965889206137429780271812311301675804936999/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "258": {
+  "reported_lower_bound": {
+   "displayed": "323327516327/20000000000",
+   "exact_form": "574*sqrt(2)/257 + 3343/257",
+   "lower": "1038689646200539139503042331924091674274747914116592048500853542401670110593/64250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2077379292401078279006084663848183348549495828233184097001707084803340221473/128500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "80321912081/5000000000",
+   "exact_form": "1/2 + sqrt(258 - floor(sqrt(258)) + 1/4)",
+   "lower": "200804780203417258518709792010076515606709856532542943782130333877479509/12500000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16064382416273380681496783360806121248536788522603435502570426710198360721/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "259": {
+  "reported_lower_bound": {
+   "displayed": "323327516327/20000000000",
+   "exact_form": "574*sqrt(2)/257 + 3343/257",
+   "lower": "1038689646200539139503042331924091674274747914116592048500853542401670110593/64250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2077379292401078279006084663848183348549495828233184097001707084803340221473/128500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "40241184901/2500000000",
+   "exact_form": "1/2 + sqrt(259 - floor(sqrt(259)) + 1/4)",
+   "lower": "4024118490120555441235829997255153220581421294577676117672584205497250361/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3219294792096444352988663997804122576465137035662140894138067364397800289/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "260": {
+  "reported_lower_bound": {
+   "displayed": "323327516327/20000000000",
+   "exact_form": "574*sqrt(2)/257 + 3343/257",
+   "lower": "1038689646200539139503042331924091674274747914116592048500853542401670110593/64250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2077379292401078279006084663848183348549495828233184097001707084803340221473/128500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "2016062451/125000000",
+   "exact_form": "1/2 + sqrt(260 - floor(sqrt(260)) + 1/4)",
+   "lower": "645139984323511336858706205331998664658868812506085101521880076110070177/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8064249804043891710733827566649983308235860156326063769023500951375877213/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "261": {
+  "reported_lower_bound": {
+   "displayed": "16192480533769/1000000000000",
+   "exact_form": "16192480533769752717717472451742/1000000000000000000000000000000",
+   "lower": "8096240266884876358858736225871/500000000000000000000000000000",
+   "upper": "8096240266884876358858736225871/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "161604597633/10000000000",
+   "exact_form": "1/2 + sqrt(261 - floor(sqrt(261)) + 1/4)",
+   "lower": "16160459763365825269636631033822071517434774756579699629508095873507055871/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "63126795950647754959518089975867466864979588892889451677765999505886937/3906250000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "262": {
+  "reported_lower_bound": {
+   "displayed": "1623432307619/100000000000",
+   "exact_form": "16234323076190945154058719002583/1000000000000000000000000000000",
+   "lower": "16234323076190945154058719002583/1000000000000000000000000000000",
+   "upper": "16234323076190945154058719002583/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "20240443533/1250000000",
+   "exact_form": "1/2 + sqrt(262 - floor(sqrt(262)) + 1/4)",
+   "lower": "3238470965295043158844859591431467480764339723399069863404662535619126081/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8096177413237607897112148978578668701910849308497674658511656339047815203/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "263": {
+  "reported_lower_bound": {
+   "displayed": "8135706951357/500000000000",
+   "exact_form": "16271413902714271056981219029807/1000000000000000000000000000000",
+   "lower": "16271413902714271056981219029807/1000000000000000000000000000000",
+   "upper": "16271413902714271056981219029807/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "32448370387/2000000000",
+   "exact_form": "1/2 + sqrt(263 - floor(sqrt(263)) + 1/4)",
+   "lower": "8112092596758193867462887234312450584781255062826224453411737278604368167/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3244837038703277546985154893724980233912502025130489781364694911441747267/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "264": {
+  "reported_lower_bound": {
+   "displayed": "8154201547219/500000000000",
+   "exact_form": "16308403094438469074118669059935/1000000000000000000000000000000",
+   "lower": "3261680618887693814823733811987/200000000000000000000000000000",
+   "upper": "3261680618887693814823733811987/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "32511902513/2000000000",
+   "exact_form": "1/2 + sqrt(264 - floor(sqrt(264)) + 1/4)",
+   "lower": "16255951256588730637783251220161534569640619055300261658396596792719338161/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8127975628294365318891625610080767284820309527650130829198298396359669081/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "265": {
+  "reported_lower_bound": {
+   "displayed": "16345291482299/1000000000000",
+   "exact_form": "16345291482299678685857992321194/1000000000000000000000000000000",
+   "lower": "8172645741149839342928996160597/500000000000000000000000000000",
+   "upper": "8172645741149839342928996160597/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "81438267019/5000000000",
+   "exact_form": "1/2 + sqrt(265 - floor(sqrt(265)) + 1/4)",
+   "lower": "3257530680769388818639767079911968361424303931096186386488718253742087009/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8143826701923472046599417699779920903560759827740465966221795634355217523/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "266": {
+  "reported_lower_bound": {
+   "displayed": "16382131212207/1000000000000",
+   "exact_form": "16382131212207268779454260030055/1000000000000000000000000000000",
+   "lower": "3276426242441453755890852006011/200000000000000000000000000000",
+   "upper": "3276426242441453755890852006011/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "32638584039/2000000000",
+   "exact_form": "1/2 + sqrt(266 - floor(sqrt(266)) + 1/4)",
+   "lower": "16319292019556374571553145792400491543540026759490127466888327932577106641/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8159646009778187285776572896200245771770013379745063733444163966288553321/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "267": {
+  "reported_lower_bound": {
+   "displayed": "8203843394411/500000000000",
+   "exact_form": "16407686788822282220896508069236/1000000000000000000000000000000",
+   "lower": "4101921697205570555224127017309/250000000000000000000000000000",
+   "upper": "4101921697205570555224127017309/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "163508674841/10000000000",
+   "exact_form": "1/2 + sqrt(267 - floor(sqrt(267)) + 1/4)",
+   "lower": "4087716871036839543235518080501063180049324608513370504110958506312241919/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16350867484147358172942072322004252720197298434053482016443834025248967677/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "268": {
+  "reported_lower_bound": {
+   "displayed": "16429141319661/1000000000000",
+   "exact_form": "16429141319661638627012326214822/1000000000000000000000000000000",
+   "lower": "8214570659830819313506163107411/500000000000000000000000000000",
+   "upper": "8214570659830819313506163107411/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "81911900871/5000000000",
+   "exact_form": "1/2 + sqrt(268 - floor(sqrt(268)) + 1/4)",
+   "lower": "511949380445893469711460691965881956572643694498808959061976373746463287/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "3276476034853718206153348428581644522064919644792377337996648791977365037/200000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "269": {
+  "reported_lower_bound": {
+   "displayed": "8229814098549/500000000000",
+   "exact_form": "16459628197098524159882531656046/1000000000000000000000000000000",
+   "lower": "8229814098549262079941265828023/500000000000000000000000000000",
+   "upper": "8229814098549262079941265828023/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "41034576157/2500000000",
+   "exact_form": "1/2 + sqrt(269 - floor(sqrt(269)) + 1/4)",
+   "lower": "16413830462839548549266653555776213892256987712945886128158595060133204537/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8206915231419774274633326777888106946128493856472943064079297530066602269/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "270": {
+  "reported_lower_bound": {
+   "displayed": "16489840789077/1000000000000",
+   "exact_form": "16489840789077164904871220125950/1000000000000000000000000000000",
+   "lower": "329796815781543298097424402519/20000000000000000000000000000",
+   "upper": "329796815781543298097424402519/20000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "164452187191/10000000000",
+   "exact_form": "1/2 + sqrt(270 - floor(sqrt(270)) + 1/4)",
+   "lower": "4111304679775493527999670718098492833237724096968473680298827957715275963/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16445218719101974111998682872393971332950896387873894721195311830861103853/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "271": {
+  "reported_lower_bound": {
+   "displayed": "8264590161181/500000000000",
+   "exact_form": "16529180322362952239343783979593/1000000000000000000000000000000",
+   "lower": "16529180322362952239343783979593/1000000000000000000000000000000",
+   "upper": "16529180322362952239343783979593/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "82382726543/5000000000",
+   "exact_form": "1/2 + sqrt(271 - floor(sqrt(271)) + 1/4)",
+   "lower": "257446020447975896424722121096691338408779217496318783390658572500770141/15625000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "659061812346818294847288630007529826326474796790576085480085945601971561/40000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "272": {
+  "reported_lower_bound": {
+   "displayed": "16565085529013/1000000000000",
+   "exact_form": "16565085529013318748350114228388/1000000000000000000000000000000",
+   "lower": "4141271382253329687087528557097/250000000000000000000000000000",
+   "upper": "4141271382253329687087528557097/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "33015621187/2000000000",
+   "exact_form": "1/2 + sqrt(272 - floor(sqrt(272)) + 1/4)",
+   "lower": "3301562118716424343244108837310906632260210066310509442764636313334091379/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "257934540524720651815946002914914580645328911430508550215987211979225889/15625000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "273": {
+  "reported_lower_bound": {
+   "displayed": "83/5",
+   "exact_form": "16600000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "83/5",
+   "upper": "83/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "165390149323/10000000000",
+   "exact_form": "1/2 + sqrt(273 - floor(sqrt(273)) + 1/4)",
+   "lower": "16539014932345440023058165178048029711445598018687901659125347433674039489/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1653901493234544002305816517804802971144559801868790165912534743367403949/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "274": {
+  "reported_lower_bound": {
+   "displayed": "3325055405899/200000000000",
+   "exact_form": "16625277029495400802729703402768/1000000000000000000000000000000",
+   "lower": "1039079814343462550170606462673/62500000000000000000000000000",
+   "upper": "1039079814343462550170606462673/62500000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "165701586799/10000000000",
+   "exact_form": "1/2 + sqrt(274 - floor(sqrt(274)) + 1/4)",
+   "lower": "8285079339994098651924447903092571776494887165929903541776328666926285279/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16570158679988197303848895806185143552989774331859807083552657333852570559/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "275": {
+  "reported_lower_bound": {
+   "displayed": "16659126011673/1000000000000",
+   "exact_form": "16659126011673762472059201966652/1000000000000000000000000000000",
+   "lower": "4164781502918440618014800491663/250000000000000000000000000000",
+   "upper": "4164781502918440618014800491663/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "166012421881/10000000000",
+   "exact_form": "1/2 + sqrt(275 - floor(sqrt(275)) + 1/4)",
+   "lower": "8300621094052309204107554769684558338699229484314633640059130769660355141/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16601242188104618408215109539369116677398458968629267280118261539320710283/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "276": {
+  "reported_lower_bound": {
+   "displayed": "521658937261/31250000000",
+   "exact_form": "16693085992352219083579994476403/1000000000000000000000000000000",
+   "lower": "16693085992352219083579994476403/1000000000000000000000000000000",
+   "upper": "16693085992352219083579994476403/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "166322658049/10000000000",
+   "exact_form": "1/2 + sqrt(276 - floor(sqrt(276)) + 1/4)",
+   "lower": "1663226580490167847271564134996201394158544715856832840297463374989052421/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16632265804901678472715641349962013941585447158568328402974633749890524211/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "277": {
+  "reported_lower_bound": {
+   "displayed": "3345454995341/200000000000",
+   "exact_form": "16727274976705504268637822444535/1000000000000000000000000000000",
+   "lower": "3345454995341100853727564488907/200000000000000000000000000000",
+   "upper": "3345454995341100853727564488907/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "650907417/39062500",
+   "exact_form": "1/2 + sqrt(277 - floor(sqrt(277)) + 1/4)",
+   "lower": "16663229875244613373567458598601164389706937300261783283061308798290480647/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2082903734405576671695932324825145548713367162532722910382663599786310081/125000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "278": {
+  "reported_lower_bound": {
+   "displayed": "8380531248367/500000000000",
+   "exact_form": "16761062496734438605422488576153/1000000000000000000000000000000",
+   "lower": "16761062496734438605422488576153/1000000000000000000000000000000",
+   "upper": "16761062496734438605422488576153/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "166941347407/10000000000",
+   "exact_form": "1/2 + sqrt(278 - floor(sqrt(278)) + 1/4)",
+   "lower": "8347067370350823504379272743334914749405083516694764838671015344736596281/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16694134740701647008758545486669829498810167033389529677342030689473192563/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "279": {
+  "reported_lower_bound": {
+   "displayed": "1049673321027/62500000000",
+   "exact_form": "16794773136432746966395344570761/1000000000000000000000000000000",
+   "lower": "16794773136432746966395344570761/1000000000000000000000000000000",
+   "upper": "16794773136432746966395344570761/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "33449961479/2000000000",
+   "exact_form": "1/2 + sqrt(279 - floor(sqrt(279)) + 1/4)",
+   "lower": "16724980739587951819036495703617231758130834582303607957197038753022251267/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4181245184896987954759123925904307939532708645575901989299259688255562817/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "280": {
+  "reported_lower_bound": {
+   "displayed": "3362497266293/200000000000",
+   "exact_form": "16812486331465475037079344070770/1000000000000000000000000000000",
+   "lower": "1681248633146547503707934407077/100000000000000000000000000000",
+   "upper": "1681248633146547503707934407077/100000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "16755768207/1000000000",
+   "exact_form": "1/2 + sqrt(280 - floor(sqrt(280)) + 1/4)",
+   "lower": "16755768207008858552463731052450539144320263801302033482852191837414570243/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4188942051752214638115932763112634786080065950325508370713047959353642561/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "281": {
+  "reported_lower_bound": {
+   "displayed": "8423108510007/500000000000",
+   "exact_form": "16846217020014590810069068416177/1000000000000000000000000000000",
+   "lower": "16846217020014590810069068416177/1000000000000000000000000000000",
+   "upper": "16846217020014590810069068416177/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "167864974749/10000000000",
+   "exact_form": "1/2 + sqrt(281 - floor(sqrt(281)) + 1/4)",
+   "lower": "16786497474902330883914942575575573948783829109705215325283127955162889847/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "2098312184362791360489367821946946743597978638713151915660390994395361231/125000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "282": {
+  "reported_lower_bound": {
+   "displayed": "2109983901831/125000000000",
+   "exact_form": "16879871214648781119859619253750/1000000000000000000000000000000",
+   "lower": "13503896971719024895887695403/800000000000000000000000000",
+   "upper": "13503896971719024895887695403/800000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "2102146109/125000000",
+   "exact_form": "1/2 + sqrt(282 - floor(sqrt(282)) + 1/4)",
+   "lower": "4204292218020180029671950405785129169336437974122265955991967731893942659/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16817168872080720118687801623140516677345751896489063823967870927575770637/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "283": {
+  "reported_lower_bound": {
+   "displayed": "8456724716717/500000000000",
+   "exact_form": "16913449433434668891254232294235/1000000000000000000000000000000",
+   "lower": "3382689886686933778250846458847/200000000000000000000000000000",
+   "upper": "3382689886686933778250846458847/200000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "84238913621/5000000000",
+   "exact_form": "1/2 + sqrt(283 - floor(sqrt(283)) + 1/4)",
+   "lower": "8423891362135907418974914018038032812132353963553972888593769133001506419/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16847782724271814837949828036076065624264707927107945777187538266003012839/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "284": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "168783393541/10000000000",
+   "exact_form": "1/2 + sqrt(284 - floor(sqrt(284)) + 1/4)",
+   "lower": "8439169677079599991355366798890679862200083254192424724831751968813803999/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "16878339354159199982710733597781359724400166508384849449663503937627607999/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "285": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "84544195407/5000000000",
+   "exact_form": "1/2 + sqrt(285 - floor(sqrt(285)) + 1/4)",
+   "lower": "16908839081421939522060877203617542092209092619709521648638008231378558229/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1690883908142193952206087720361754209220909261970952164863800823137855823/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "286": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  }
+ },
+ "287": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "None",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  }
+ },
+ "288": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "None",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  }
+ },
+ "289": {
+  "reported_lower_bound": {
+   "displayed": "17",
+   "exact_form": "None",
+   "lower": "17",
+   "upper": "17"
+  },
+  "verified_lower_bound": {
+   "displayed": "17",
+   "exact_form": "17",
+   "lower": "17",
+   "upper": "17"
+  }
+ },
+ "290": {
+  "reported_lower_bound": {
+   "displayed": "857851568361/50000000000",
+   "exact_form": "8*sqrt(34)/145 + 2*sqrt(2) + 2031/145",
+   "lower": "621942387061739991979870738260294276849344007634600679214209294494063724777/36250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1243884774123479983959741476520588553698688015269201358428418588988127449703/72500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "42575688137/2500000000",
+   "exact_form": "1/2 + sqrt(290 - floor(sqrt(290)) + 1/4)",
+   "lower": "8515137627408269600302042008178965007099205141981747592530823841528437763/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17030275254816539200604084016357930014198410283963495185061647683056875527/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "291": {
+  "reported_lower_bound": {
+   "displayed": "857851568361/50000000000",
+   "exact_form": "8*sqrt(34)/145 + 2*sqrt(2) + 2031/145",
+   "lower": "621942387061739991979870738260294276849344007634600679214209294494063724777/36250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1243884774123479983959741476520588553698688015269201358428418588988127449703/72500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "2665702369/156250000",
+   "exact_form": "1/2 + sqrt(291 - floor(sqrt(291)) + 1/4)",
+   "lower": "17060495161679194186521543202575117107087276215805720604076569041526910483/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4265123790419798546630385800643779276771819053951430151019142260381727621/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "292": {
+  "reported_lower_bound": {
+   "displayed": "857851568361/50000000000",
+   "exact_form": "8*sqrt(34)/145 + 2*sqrt(2) + 2031/145",
+   "lower": "621942387061739991979870738260294276849344007634600679214209294494063724777/36250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1243884774123479983959741476520588553698688015269201358428418588988127449703/72500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "17090660023/1000000000",
+   "exact_form": "1/2 + sqrt(292 - floor(sqrt(292)) + 1/4)",
+   "lower": "8545330011518529092111072588684890766720934203064152055963559362218294141/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17090660023037058184222145177369781533441868406128304111927118724436588283/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "293": {
+  "reported_lower_bound": {
+   "displayed": "857851568361/50000000000",
+   "exact_form": "8*sqrt(34)/145 + 2*sqrt(2) + 2031/145",
+   "lower": "621942387061739991979870738260294276849344007634600679214209294494063724777/36250000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1243884774123479983959741476520588553698688015269201358428418588988127449703/72500000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "34241540277/2000000000",
+   "exact_form": "1/2 + sqrt(293 - floor(sqrt(293)) + 1/4)",
+   "lower": "17120770138594661402315290771052609448343150542554861547008050252742243177/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8560385069297330701157645385526304724171575271277430773504025126371121589/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "294": {
+  "reported_lower_bound": {
+   "displayed": "17178735352753/1000000000000",
+   "exact_form": "17178735352753090122964416839175/1000000000000000000000000000000",
+   "lower": "687149414110123604918576673567/40000000000000000000000000000",
+   "upper": "687149414110123604918576673567/40000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "171508258053/10000000000",
+   "exact_form": "1/2 + sqrt(294 - floor(sqrt(294)) + 1/4)",
+   "lower": "17150825805346712592819650556003767982416760315394521155398269758821456241/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8575412902673356296409825278001883991208380157697260577699134879410728121/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "295": {
+  "reported_lower_bound": {
+   "displayed": "1721811117693/100000000000",
+   "exact_form": "17218111176930066152549269061890/1000000000000000000000000000000",
+   "lower": "1721811117693006615254926906189/100000000000000000000000000000",
+   "upper": "1721811117693006615254926906189/100000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "21476034147/1250000000",
+   "exact_form": "1/2 + sqrt(295 - floor(sqrt(295)) + 1/4)",
+   "lower": "8590413658806138615346249804247277005957842209152590631644185004585612203/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17180827317612277230692499608494554011915684418305181263288370009171224407/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "296": {
+  "reported_lower_bound": {
+   "displayed": "17252682269701/1000000000000",
+   "exact_form": "17252682269701265739603421288791/1000000000000000000000000000000",
+   "lower": "17252682269701265739603421288791/1000000000000000000000000000000",
+   "upper": "17252682269701265739603421288791/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "17210774967/1000000000",
+   "exact_form": "1/2 + sqrt(296 - floor(sqrt(296)) + 1/4)",
+   "lower": "17210774967068403437767247415584853238060499960714674396884984779498305809/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1721077496706840343776724741558485323806049996071467439688498477949830581/100000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "297": {
+  "reported_lower_bound": {
+   "displayed": "2160896377683/125000000000",
+   "exact_form": "17287171021464262610446436903850/1000000000000000000000000000000",
+   "lower": "345743420429285252208928738077/20000000000000000000000000000",
+   "upper": "345743420429285252208928738077/20000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "172406690427/10000000000",
+   "exact_form": "1/2 + sqrt(297 - floor(sqrt(297)) + 1/4)",
+   "lower": "17240669042783206518496878469900044236332198940958621741629342300260680359/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "431016726069580162962421961747501105908304973523965543540733557506517009/25000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "298": {
+  "reported_lower_bound": {
+   "displayed": "17321578017787/1000000000000",
+   "exact_form": "17321578017787744038570514537616/1000000000000000000000000000000",
+   "lower": "1082598626111734002410657158601/62500000000000000000000000000",
+   "upper": "1082598626111734002410657158601/62500000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "21588137289/1250000000",
+   "exact_form": "1/2 + sqrt(298 - floor(sqrt(298)) + 1/4)",
+   "lower": "8635254915624211361534401257742285882902318848543221466015864670289453471/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17270509831248422723068802515484571765804637697086442932031729340578906943/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "299": {
+  "reported_lower_bound": {
+   "displayed": "4338975959333/250000000000",
+   "exact_form": "17355903837332667496268861244096/1000000000000000000000000000000",
+   "lower": "271185997458322929629200956939/15625000000000000000000000000",
+   "upper": "271185997458322929629200956939/15625000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "43250744041/2500000000",
+   "exact_form": "1/2 + sqrt(299 - floor(sqrt(299)) + 1/4)",
+   "lower": "2162537202051430326041756216841352568645805711917649069228701720890588569/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17300297616411442608334049734730820549166445695341192553829613767124708553/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "300": {
+  "reported_lower_bound": {
+   "displayed": "4347644174377/250000000000",
+   "exact_form": "17390576697508452635718714735428/1000000000000000000000000000000",
+   "lower": "4347644174377113158929678683857/250000000000000000000000000000",
+   "upper": "4347644174377113158929678683857/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "173300326797/10000000000",
+   "exact_form": "1/2 + sqrt(300 - floor(sqrt(300)) + 1/4)",
+   "lower": "693201307188273365135157959505182219808571719736230856874142168309017937/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8665016339853417064189474493814777747607146496702885710926777103862724213/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "301": {
+  "reported_lower_bound": {
+   "displayed": "4353004917721/250000000000",
+   "exact_form": "17412019670884319976723545461892/1000000000000000000000000000000",
+   "lower": "4353004917721079994180886365473/250000000000000000000000000000",
+   "upper": "4353004917721079994180886365473/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "173597153/10000000",
+   "exact_form": "1/2 + sqrt(301 - floor(sqrt(301)) + 1/4)",
+   "lower": "8679857650043682677132637691913962849187293271839628287508307862203674381/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17359715300087365354265275383827925698374586543679256575016615724407348763/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "302": {
+  "reported_lower_bound": {
+   "displayed": "8716713042471/500000000000",
+   "exact_form": "17433426084942247323703832494963/1000000000000000000000000000000",
+   "lower": "17433426084942247323703832494963/1000000000000000000000000000000",
+   "upper": "17433426084942247323703832494963/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8694672877/500000000",
+   "exact_form": "1/2 + sqrt(302 - floor(sqrt(302)) + 1/4)",
+   "lower": "17389345754054536496286741415080534866757652603800203837762541899852963199/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "5434170548142042655089606692212667145861766438687563699300794343704051/312500000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "303": {
+  "reported_lower_bound": {
+   "displayed": "4365496546283/250000000000",
+   "exact_form": "17461986185132785625652399664177/1000000000000000000000000000000",
+   "lower": "17461986185132785625652399664177/1000000000000000000000000000000",
+   "upper": "17461986185132785625652399664177/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "43547310789/2500000000",
+   "exact_form": "1/2 + sqrt(303 - floor(sqrt(303)) + 1/4)",
+   "lower": "17418924315688630681853303975371860206910299949544153341439019412197566267/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4354731078922157670463325993842965051727574987386038335359754853049391567/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "304": {
+  "reported_lower_bound": {
+   "displayed": "4372595746409/250000000000",
+   "exact_form": "17490382985636778684148708282520/1000000000000000000000000000000",
+   "lower": "437259574640919467103717707063/25000000000000000000000000000",
+   "upper": "437259574640919467103717707063/25000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "87242256283/5000000000",
+   "exact_form": "1/2 + sqrt(304 - floor(sqrt(304)) + 1/4)",
+   "lower": "8724225628339146363821892077659605407693716174476365089086899579676584009/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17448451256678292727643784155319210815387432348952730178173799159353168019/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "305": {
+  "reported_lower_bound": {
+   "displayed": "4381805695481/250000000000",
+   "exact_form": "17527222781924715724634155507954/1000000000000000000000000000000",
+   "lower": "8763611390962357862317077753977/500000000000000000000000000000",
+   "upper": "8763611390962357862317077753977/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "174779268463/10000000000",
+   "exact_form": "1/2 + sqrt(305 - floor(sqrt(305)) + 1/4)",
+   "lower": "8738963423174822467895644571957939294029876565383170041034345956332799771/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17477926846349644935791289143915878588059753130766340082068691912665599543/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "306": {
+  "reported_lower_bound": {
+   "displayed": "17560729456133/1000000000000",
+   "exact_form": "17560729456133125668867888771756/1000000000000000000000000000000",
+   "lower": "4390182364033281417216972192939/250000000000000000000000000000",
+   "upper": "4390182364033281417216972192939/250000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "43768378379/2500000000",
+   "exact_form": "1/2 + sqrt(306 - floor(sqrt(306)) + 1/4)",
+   "lower": "700294054067797949616801617692632096252799695451058070611767436705438321/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8753675675847474370210020221157901203159996193138225882647092958817979013/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "307": {
+  "reported_lower_bound": {
+   "displayed": "4398540286751/250000000000",
+   "exact_form": "17594161147004160295509592381043/1000000000000000000000000000000",
+   "lower": "17594161147004160295509592381043/1000000000000000000000000000000",
+   "upper": "17594161147004160295509592381043/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "87683625187/5000000000",
+   "exact_form": "1/2 + sqrt(307 - floor(sqrt(307)) + 1/4)",
+   "lower": "876836251870041041633850697598853466171204278159641921594547269784056127/50000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17536725037400820832677013951977069323424085563192838431890945395681122541/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "308": {
+  "reported_lower_bound": {
+   "displayed": "4404155026657/250000000000",
+   "exact_form": "17616620106628016467339740238257/1000000000000000000000000000000",
+   "lower": "17616620106628016467339740238257/1000000000000000000000000000000",
+   "upper": "17616620106628016467339740238257/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "87830240829/5000000000",
+   "exact_form": "1/2 + sqrt(308 - floor(sqrt(308)) + 1/4)",
+   "lower": "17566048165876012199343063398256913596231943020887405694655203625412218519/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "439151204146900304983576584956422839905798575522185142366380090635305463/25000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "309": {
+  "reported_lower_bound": {
+   "displayed": "68940966841/3906250000",
+   "exact_form": "17648887511296242912511341466657/1000000000000000000000000000000",
+   "lower": "17648887511296242912511341466657/1000000000000000000000000000000",
+   "upper": "17648887511296242912511341466657/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "43988302493/2500000000",
+   "exact_form": "1/2 + sqrt(309 - floor(sqrt(309)) + 1/4)",
+   "lower": "549853781164961197563022913303666920230009996217481620755758387723694993/31250000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17595320997278758322016733225717341447360319878959411864184268407158239777/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "310": {
+  "reported_lower_bound": {
+   "displayed": "17680876728473/1000000000000",
+   "exact_form": "17680876728473060035856985673521/1000000000000000000000000000000",
+   "lower": "17680876728473060035856985673521/1000000000000000000000000000000",
+   "upper": "17680876728473060035856985673521/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "35249087579/2000000000",
+   "exact_form": "1/2 + sqrt(310 - floor(sqrt(310)) + 1/4)",
+   "lower": "17624543789543708600595420538173338705379584500563943139997206521432016603/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4406135947385927150148855134543334676344896125140985784999301630358004151/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "311": {
+  "reported_lower_bound": {
+   "displayed": "17712867017469/1000000000000",
+   "exact_form": "17712867017469740637327408347749/1000000000000000000000000000000",
+   "lower": "17712867017469740637327408347749/1000000000000000000000000000000",
+   "upper": "17712867017469740637327408347749/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "11033572999/625000000",
+   "exact_form": "1/2 + sqrt(311 - floor(sqrt(311)) + 1/4)",
+   "lower": "17653716798408442886193240229822702235848189227943702906442960068699151567/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "1103357299900527680387077514363918889740511826746481431652685004293696973/62500000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "312": {
+  "reported_lower_bound": {
+   "displayed": "17744546870277/1000000000000",
+   "exact_form": "17744546870277065535828994118249/1000000000000000000000000000000",
+   "lower": "17744546870277065535828994118249/1000000000000000000000000000000",
+   "upper": "17744546870277065535828994118249/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "88414201387/5000000000",
+   "exact_form": "1/2 + sqrt(312 - floor(sqrt(312)) + 1/4)",
+   "lower": "17682840277439582834597711337718181629470854052120921950687730658799285631/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "138147189667496740895294619825923293980241047282194702739747895771869419/7812500000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "313": {
+  "reported_lower_bound": {
+   "displayed": "2222020415651/125000000000",
+   "exact_form": "17776163325208956902854959021686/1000000000000000000000000000000",
+   "lower": "8888081662604478451427479510843/500000000000000000000000000000",
+   "upper": "8888081662604478451427479510843/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "8855957239/500000000",
+   "exact_form": "1/2 + sqrt(313 - floor(sqrt(313)) + 1/4)",
+   "lower": "8855957239029252810873694853194702693325786128839978072395053558399817653/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17711914478058505621747389706389405386651572257679956144790107116799635307/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "314": {
+  "reported_lower_bound": {
+   "displayed": "89/5",
+   "exact_form": "17800000000000000000000000000000/1000000000000000000000000000000",
+   "lower": "89/5",
+   "upper": "89/5"
+  },
+  "verified_lower_bound": {
+   "displayed": "35481879299/2000000000",
+   "exact_form": "1/2 + sqrt(314 - floor(sqrt(314)) + 1/4)",
+   "lower": "709637585982666695895327518132701473793920308102795436486523185434702581/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8870469824783333698691593976658768422424003851284942956081539817933782263/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "315": {
+  "reported_lower_bound": {
+   "displayed": "4456086251989/250000000000",
+   "exact_form": "17824345007956664400757944201903/1000000000000000000000000000000",
+   "lower": "17824345007956664400757944201903/1000000000000000000000000000000",
+   "upper": "17824345007956664400757944201903/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "177699160391/10000000000",
+   "exact_form": "1/2 + sqrt(315 - floor(sqrt(315)) + 1/4)",
+   "lower": "17769916039170543691864757966504122460701954395791125580385891986979293691/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4442479009792635922966189491626030615175488598947781395096472996744823423/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "316": {
+  "reported_lower_bound": {
+   "displayed": "17855922468917/1000000000000",
+   "exact_form": "17855922468917948398655297105409/1000000000000000000000000000000",
+   "lower": "17855922468917948398655297105409/1000000000000000000000000000000",
+   "upper": "17855922468917948398655297105409/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "4449710973/250000000",
+   "exact_form": "1/2 + sqrt(316 - floor(sqrt(316)) + 1/4)",
+   "lower": "8899421946003096917015637429113404375437301638431040124995908557101453581/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17798843892006193834031274858226808750874603276862080249991817114202907163/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "317": {
+  "reported_lower_bound": {
+   "displayed": "715497485741/40000000000",
+   "exact_form": "17887437143525557944752785695467/1000000000000000000000000000000",
+   "lower": "17887437143525557944752785695467/1000000000000000000000000000000",
+   "upper": "17887437143525557944752785695467/1000000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "178277234511/10000000000",
+   "exact_form": "1/2 + sqrt(317 - floor(sqrt(317)) + 1/4)",
+   "lower": "142621787609307650278466642881085454366309364863048631321691668129734919/8000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "4456930862790864071202082590033920448947167651970269728802864629054216219/250000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "318": {
+  "reported_lower_bound": {
+   "displayed": "1119930587801/62500000000",
+   "exact_form": "17918889404816406147204951082306/1000000000000000000000000000000",
+   "lower": "8959444702408203073602475541153/500000000000000000000000000000",
+   "upper": "8959444702408203073602475541153/500000000000000000000000000000"
+  },
+  "verified_lower_bound": {
+   "displayed": "178565549577/10000000000",
+   "exact_form": "1/2 + sqrt(318 - floor(sqrt(318)) + 1/4)",
+   "lower": "3571310991541956328381625450585724798304709469006737083548602230388601601/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "8928277478854890820954063626464311995761773672516842708871505575971504003/500000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "319": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "178853386507/10000000000",
+   "exact_form": "1/2 + sqrt(319 - floor(sqrt(319)) + 1/4)",
+   "lower": "8942669325356854962665490242585582971379083533182985885945403859038854901/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17885338650713709925330980485171165942758167066365971771890807718077709803/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "320": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "22392593459/1250000000",
+   "exact_form": "1/2 + sqrt(320 - floor(sqrt(320)) + 1/4)",
+   "lower": "8957037383633999305673938030478590658456623795420808892765214465041770129/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "upper": "17914074767267998611347876060957181316913247590841617785530428930083540259/1000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+ },
+ "321": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  }
+ },
+ "322": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "None",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  }
+ },
+ "323": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "None",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  }
+ },
+ "324": {
+  "reported_lower_bound": {
+   "displayed": "18",
+   "exact_form": "None",
+   "lower": "18",
+   "upper": "18"
+  },
+  "verified_lower_bound": {
+   "displayed": "18",
+   "exact_form": "18",
+   "lower": "18",
+   "upper": "18"
+  }
+ }
+}

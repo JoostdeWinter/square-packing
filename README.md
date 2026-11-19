@@ -41,6 +41,8 @@ The folder [above324_from_n297](above324_from_n297/) holds packings for n = 332 
 
 The folder [above1000](above1000/) holds packings for 2,837 counts between 1,036 and 9,928, each with a smaller side than the best public value on 17 November 2026. The search, constructions and certificates were produced with GPT-6.2 Astra (OpenAI) under the direction of Joost de Winter.
 
+The folder [lower_bounds_2026_11_19](lower_bounds_2026_11_19/) holds lower bounds for 48 counts between 50 and 218, after Hiroaki Hosono's measures. `CLAIM.md` lists the claimed bounds.
+
 The folder [lower_n108](lower_n108/) holds a lower bound for n = 108 and n = 109: s(108) >= 10.630037940829, raised from 10.62 (Hiroaki Hosono). It rescales Hosono's measure and checks it with the Squares Project verifier at 401 directions. The computation and proof were produced with GPT-6.2 Astra (OpenAI) under the direction of Joost de Winter.
 
 The folder [method_n132_n157](method_n132_n157/) holds the code that produced the packings for n = 132 and 157: the growth step, the optimization model, the high-precision solutions and two further checks.

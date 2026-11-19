@@ -1,0 +1,2061 @@
+{
+ "128": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "2852549524054958596121481583673/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/128.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "11328203913853857600893100543395588648724658768393288932482063820454638369/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/128.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "2852549524054958596121481583673/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "22820396192439668769/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "129": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "2288441322366693501861696174841/200000000000000000000000000000",
+   "source": "https://squaremath.org/cases/129.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2274856317093154547227802504603522070902970136913515049825800489465699591/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/129.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "2288441322366693501861696174841/200000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "57211033059167337547/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "130": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "5742770280328256286500717209903/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/130.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "1427520604240097175830744217161318648833313065483089519695909085865771701/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/130.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "5742770280328256286500717209903/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "114855405606565125731/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "131": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "11545544735188575285759371528017/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/131.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "11465856099730654408274035848063781825085997029126126346140339632394068859/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/131.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "11545544735188575285759371528017/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "57727723675942876429/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "133": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "5819043832032242437694729318451/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/133.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2311334438749598093004081072192085361792483944272576135509941842402376097/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/133.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "5819043832032242437694729318451/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "58190438320322424377/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "134": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "5844782641761451651483184534441/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/134.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "11601801655587258779244292269163247971913277015572254722286749955630179709/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/134.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "5844782641761451651483184534441/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "11689565283522903303/1000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "135": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "5870603610762106889882833410971/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/135.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2911687101200994183838869633118337435687588125133971098033150039716771439/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/135.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "5870603610762106889882833410971/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "58706036107621068899/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "136": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "11792119270580817433297642338079/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/136.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "233830292855993913610393761765636577506464964461159356290557089619486837/20000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/136.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "11792119270580817433297642338079/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "117921192705808174333/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "152": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "620785229470021087007795943299/50000000000000000000000000000",
+   "source": "https://squaremath.org/cases/152.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "6171359641163505616646369977962726001965601769096063189657226526377787487/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/152.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "620785229470021087007795943299/50000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "62078522947002108701/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "153": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12446832330892889010549072664797/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/153.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "12384864324004712844040371637863934740763802752837272642992277747690142927/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/153.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12446832330892889010549072664797/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "62234161654464445053/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "154": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12486669250021968643133242987761/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/154.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "38833938880864258900852676935239063176450444218646867877669261421406349/3125000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/154.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12486669250021968643133242987761/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "3902084140631865201/312500000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "155": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12540954306468783969574031785279/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/155.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "12468709203585823606907496301278040636337604321473254182583939548617838629/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/155.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12540954306468783969574031785279/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "7838096441542989981/625000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "156": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12591233265143578179003501158359/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/156.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3127603037366078466546556443173763724382448372093699675753622087806179067/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/156.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12591233265143578179003501158359/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "125912332651435781791/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "157": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12625379072825314661411226868861/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/157.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "12551970793193949654843076731449985161052193339160591975618892750875459989/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/157.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12625379072825314661411226868861/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "25250758145650629323/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "158": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "79198245385803764968621209103/6250000000000000000000000000",
+   "source": "https://squaremath.org/cases/158.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "12593386622447824478549919845455656696701594458412860081904888583895812427/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/158.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "79198245385803764968621209103/6250000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "2534343852345720479/200000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "159": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "12718840536313777993625266729991/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/159.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "12634661099511596990531588166905715991578523860620631261271373874903679023/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/159.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "12718840536313777993625266729991/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "127188405363137779937/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "160": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "398911036379903908137184877197/31250000000000000000000000000",
+   "source": "https://squaremath.org/cases/160.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "6337897830942960231899196146747473768436159084076850667389221816199777577/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/160.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "398911036379903908137184877197/31250000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "31912882910392312651/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "179": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "13450789442560079854620140152489/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/179.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "1339379695822762675164921679783185033841015839252646654889117737736835159/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/179.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "13450789442560079854620140152489/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "134507894425600798547/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "180": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "13487634416240439546971473043683/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/180.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3358129289094390669910369056298180061683493725314680507876517969724420953/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/180.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "13487634416240439546971473043683/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "13487634416240439547/1000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "181": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "2707440610845868752009184572961/200000000000000000000000000000",
+   "source": "https://squaremath.org/cases/181.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3367780442768211836188484476917897528725640167524578435053291484579936633/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/181.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "2707440610845868752009184572961/200000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "135372030542293437601/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "182": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "53058254825186648932889513939/3906250000000000000000000000",
+   "source": "https://squaremath.org/cases/182.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "13509611831257687451633144625269135585687222969050725889242433417852895683/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/182.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "53058254825186648932889513939/3906250000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "135829132352477821269/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "183": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "2722766706358991330144598214427/200000000000000000000000000000",
+   "source": "https://squaremath.org/cases/183.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "6773994175349944317269224031366565151123422024211338243394101269852535817/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/183.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "2722766706358991330144598214427/200000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "34034583829487391627/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "184": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "1707151764327898241114791076889/125000000000000000000000000000",
+   "source": "https://squaremath.org/cases/184.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "543450093132096022936947535057789578723458388634083962123978251693861901/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/184.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "1707151764327898241114791076889/125000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "13657214114623185929/1000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "185": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "13700237553483878048528452634989/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/185.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "6812202374203343631593298631747626200422496171490146916401046027442832297/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/185.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "13700237553483878048528452634989/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "68501187767419390243/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "186": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "13742698009704946149446427106143/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/186.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "1366244658108818309060958246112446434131381524133175538639154344467414697/100000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/186.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "13742698009704946149446427106143/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "27485396019409892299/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "187": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "13785006185483284906447808399613/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/187.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "13700378782444085608050500409220848725116957438681222419884284546305420507/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/187.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "13785006185483284906447808399613/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "27570012370966569813/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "207": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "14454083022965484475890543092597/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/207.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7200719387228921932663514297383158148909644549411605740303556373084633001/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/207.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "14454083022965484475890543092597/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "144540830229654844759/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "208": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "7244234604194289849819592286217/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/208.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "14437359864766353947657984560558126629873948075974273076598979514558980219/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/208.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "7244234604194289849819592286217/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "144884692083885796997/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "209": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "908380027379731820249406779881/62500000000000000000000000000",
+   "source": "https://squaremath.org/cases/209.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "14473188612482120217149172196982866971373643636486745399763423152650818433/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/209.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "908380027379731820249406779881/62500000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "3633520109518927281/250000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "210": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "7287989727923408340544909266443/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/210.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7254462863060949943464371902145074580064289434275128265743023042439680307/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/210.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "7287989727923408340544909266443/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "145759794558468166811/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "211": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "7302546348543481646920740637959/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/211.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7272285952594069634352528946227982696634823439028122255843027508049412471/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/211.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "7302546348543481646920740637959/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "146050926970869632939/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "212": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "14644746653722570378106085943507/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/212.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2916025568065744675794732989726293111932024282643744904004322870309014683/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/212.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "14644746653722570378106085943507/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "73223733268612851891/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "213": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "2936840908263968139966698944159/200000000000000000000000000000",
+   "source": "https://squaremath.org/cases/213.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "14615594213493103953708733908431914725471566723694855467579976274227716057/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/213.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "2936840908263968139966698944159/200000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "146842045413198406999/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "214": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "7361859274581805282830544091183/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/214.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2930194339616981143396198113286792215095086790024536396198894434694006873/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/214.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "7361859274581805282830544091183/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "147237185491636105657/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "215": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "14762788837693069711812503275249/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/215.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "14686260959111107511982842804857957020559626073446328460968100649531559133/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/215.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "14762788837693069711812503275249/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "147627888376930697119/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "235": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15402946369162371566857962109223/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/235.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7670411039827915085413542453988625110645894257969151160410518191394208061/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/235.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15402946369162371566857962109223/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "154029463691623715669/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "236": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15424737428424020507954737963467/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/236.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "15374474780643516893293152163590085760726760342804171238136073129192720787/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/236.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15424737428424020507954737963467/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "3856184357106005127/250000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "237": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "1932136369136991181763326287017/125000000000000000000000000000",
+   "source": "https://squaremath.org/cases/237.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3081610303175114801206355840526899748082086248750084794241876294403672851/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/237.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "1932136369136991181763326287017/125000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "77285454765479647271/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "238": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15489198379918905515504121954001/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/238.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "15441552797483934868993984890798487959897909687984578405285878814132873511/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/238.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15489198379918905515504121954001/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "38722995949797263789/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "239": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "1553144083226296864213427620201/100000000000000000000000000000",
+   "source": "https://squaremath.org/cases/239.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "15474979131871937269821619138972809462072056896786357280037028356818564243/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/239.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "1553144083226296864213427620201/100000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "77657204161314843211/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "240": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "973132061402083744956379908827/62500000000000000000000000000",
+   "source": "https://squaremath.org/cases/240.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "15508331019803634381724925485550739396000894443065323203769526802628891973/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/240.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "973132061402083744956379908827/62500000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "77850564912166699597/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "242": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15634313327513366521426322328127/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/242.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "973425839480083462833056085571210267526095950314972870991202652874546053/62500000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/242.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15634313327513366521426322328127/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "31268626655026733043/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "243": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15670624458211314162402381499791/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/243.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "15607944929738127689214823703121746553723438484407314578474063337030189963/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/243.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15670624458211314162402381499791/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "1253649956656905133/80000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "244": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15707471492804420579427126793113/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/244.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7820501964863360366684835119160258832559183489229638045292795817716329257/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/244.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15707471492804420579427126793113/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "31414942985608841159/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "245": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "7871878233453553836307441761733/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/245.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3134798181098703637484198424848632123857380411942224588660757327037594611/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/245.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "7871878233453553836307441761733/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "157437564669071076727/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "246": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "15779946271037001925303833421219/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/246.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "7853453162872774611249605306502583827606212618483013983023941308107915907/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/246.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "15779946271037001925303833421219/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "78899731355185009627/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "267": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "4101921697205570555224127017309/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/267.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16350867484147358172942072322004252720197298434053482016443834025248967677/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/267.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "4101921697205570555224127017309/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "164076867888222822209/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "268": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "8214570659830819313506163107411/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/268.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "3276476034853718206153348428581644522064919644792377337996648791977365037/200000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/268.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "8214570659830819313506163107411/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "164291413196616386271/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "269": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "8229814098549262079941265828023/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/269.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "8206915231419774274633326777888106946128493856472943064079297530066602269/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/269.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "8229814098549262079941265828023/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "164596281970985241599/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "270": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "329796815781543298097424402519/20000000000000000000000000000",
+   "source": "https://squaremath.org/cases/270.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16445218719101974111998682872393971332950896387873894721195311830861103853/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/270.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "329796815781543298097424402519/20000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "164898407890771649049/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "271": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "16529180322362952239343783979593/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/271.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "659061812346818294847288630007529826326474796790576085480085945601971561/40000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/271.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "16529180322362952239343783979593/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "82645901611814761197/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "272": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "4141271382253329687087528557097/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/272.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "257934540524720651815946002914914580645328911430508550215987211979225889/15625000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/272.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "4141271382253329687087528557097/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "41412713822533296871/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "274": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "1039079814343462550170606462673/62500000000000000000000000000",
+   "source": "https://squaremath.org/cases/274.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16570158679988197303848895806185143552989774331859807083552657333852570559/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/274.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "1039079814343462550170606462673/62500000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "41563192573738502007/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "275": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "4164781502918440618014800491663/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/275.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16601242188104618408215109539369116677398458968629267280118261539320710283/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/275.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "4164781502918440618014800491663/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "166591260116737624721/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "276": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "16693085992352219083579994476403/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/276.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16632265804901678472715641349962013941585447158568328402974633749890524211/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/276.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "16693085992352219083579994476403/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "41732714980880547709/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "277": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "3345454995341100853727564488907/200000000000000000000000000000",
+   "source": "https://squaremath.org/cases/277.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "2082903734405576671695932324825145548713367162532722910382663599786310081/125000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/277.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "3345454995341100853727564488907/200000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "167272749767055042687/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "278": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "16761062496734438605422488576153/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/278.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "16694134740701647008758545486669829498810167033389529677342030689473192563/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/278.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "16761062496734438605422488576153/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "33522124993468877211/2000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "279": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "16794773136432746966395344570761/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/279.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "4181245184896987954759123925904307939532708645575901989299259688255562817/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/279.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "16794773136432746966395344570761/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "5248366605135233427/312500000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "301": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "4353004917721079994180886365473/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/301.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17359715300087365354265275383827925698374586543679256575016615724407348763/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/301.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "4353004917721079994180886365473/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "21765024588605399971/1250000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "302": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17433426084942247323703832494963/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/302.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "5434170548142042655089606692212667145861766438687563699300794343704051/312500000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/302.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17433426084942247323703832494963/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "87167130424711236619/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "303": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17461986185132785625652399664177/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/303.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "4354731078922157670463325993842965051727574987386038335359754853049391567/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/303.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17461986185132785625652399664177/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "174619861851327856257/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "304": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "437259574640919467103717707063/25000000000000000000000000000",
+   "source": "https://squaremath.org/cases/304.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17448451256678292727643784155319210815387432348952730178173799159353168019/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/304.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "437259574640919467103717707063/25000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "87451914928183893421/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "305": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "8763611390962357862317077753977/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/305.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17477926846349644935791289143915878588059753130766340082068691912665599543/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/305.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "8763611390962357862317077753977/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "175272227819247157247/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "306": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "4390182364033281417216972192939/250000000000000000000000000000",
+   "source": "https://squaremath.org/cases/306.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "8753675675847474370210020221157901203159996193138225882647092958817979013/500000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/306.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "4390182364033281417216972192939/250000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "175607294561331256689/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "307": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17594161147004160295509592381043/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/307.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17536725037400820832677013951977069323424085563192838431890945395681122541/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/307.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17594161147004160295509592381043/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "43985402867510400739/2500000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "308": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17616620106628016467339740238257/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/308.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "439151204146900304983576584956422839905798575522185142366380090635305463/25000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/308.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17616620106628016467339740238257/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "88083100533140082337/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "309": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17648887511296242912511341466657/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/309.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17595320997278758322016733225717341447360319878959411864184268407158239777/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/309.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17648887511296242912511341466657/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "88244437556481214563/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "310": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17680876728473060035856985673521/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/310.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "4406135947385927150148855134543334676344896125140985784999301630358004151/250000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/310.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17680876728473060035856985673521/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "176808767284730600359/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "311": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17712867017469740637327408347749/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/311.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "1103357299900527680387077514363918889740511826746481431652685004293696973/62500000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/311.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17712867017469740637327408347749/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "88564335087348703187/5000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "312": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "17744546870277065535828994118249/1000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/312.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "138147189667496740895294619825923293980241047282194702739747895771869419/7812500000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/312.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "17744546870277065535828994118249/1000000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "177445468702770655359/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ],
+ "313": [
+  {
+   "label": "SquareMath reported_lower_bound",
+   "kind": "rational",
+   "value": "8888081662604478451427479510843/500000000000000000000000000000",
+   "source": "https://squaremath.org/cases/313.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "SquareMath verified_lower_bound",
+   "kind": "rational",
+   "value": "17711914478058505621747389706389405386651572257679956144790107116799635307/1000000000000000000000000000000000000000000000000000000000000000000000000",
+   "source": "https://squaremath.org/cases/313.html",
+   "detail": "Upper endpoint of exact comparator enclosure"
+  },
+  {
+   "label": "Prior comparison enclosure",
+   "kind": "rational",
+   "value": "8888081662604478451427479510843/500000000000000000000000000000",
+   "source": "lower-bounds-56.zip, attribution/strongest_prior_lower.json"
+  },
+  {
+   "label": "Hosono original formula, all 34 families",
+   "value": "177761633252089569029/10000000000000000000",
+   "kind": "rational",
+   "source": "https://squaremath.org/result/t-180.html",
+   "detail": "Upper endpoint of the original formula with outward 19-place square-root arithmetic"
+  }
+ ]
+}

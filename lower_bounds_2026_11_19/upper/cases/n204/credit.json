@@ -1,0 +1,14 @@
+{
+ "source": "Sergio Fernández Rubio (GeiserX). The seed is the exact rational certificate for his arrangement supplied with issue 1037.",
+ "catalogue_found_by": [
+  "Tomáš Kodaj"
+ ],
+ "catalogue_improved_by": [
+  "JoeGun"
+ ],
+ "catalogue": "https://squaremath.org/cases/204.html",
+ "refinement": "Contact optimization and exact rational certification in this continuation.",
+ "upstream_notices": "../../attribution/",
+ "dataset": "https://github.com/GeiserX/squares-in-squares",
+ "license": "CC BY 4.0 for packing data"
+}

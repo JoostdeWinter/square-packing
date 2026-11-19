@@ -1,0 +1,13 @@
+{
+  "n": 260,
+  "pairs_per_predicate": 33670,
+  "independent_geometric_predicates": 3,
+  "negative_controls": 7,
+  "geometry_audit": {
+    "n": 260,
+    "center_pairs": 33670,
+    "polygon_pairs": 33670,
+    "negative_controls_passed": 4
+  },
+  "witness_sha256": "aed9069dad6ed0f2fc789e730638e3fd02e962e6877d50563cdca94705a9fddb"
+}
