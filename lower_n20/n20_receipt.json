@@ -1,0 +1,17 @@
+{
+  "theorem": "s(20) > 99/20",
+  "marks": 22,
+  "vacancy_pairs": 231,
+  "classes": 67,
+  "terminal_regions": 75,
+  "verdicts": {
+    "C1": 4,
+    "F1": 70,
+    "F2": 1
+  },
+  "feasible_control": 16,
+  "verdict_sha256": "bd1877fc8a8348ed0f36a18f5827371f6ef0732828ac55dac4461aeb258f3048",
+  "upstream_commit": "78bec6aacebf304d942a9225e16c2f18165778ff",
+  "pinned_cover_intervals": 20,
+  "independent_cover_intervals": 17
+}

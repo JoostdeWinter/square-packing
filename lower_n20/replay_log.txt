@@ -1,0 +1,88 @@
+Independent exact angle cover: 17 intervals
+Pinned rational angle cover: {'status': 'STRICT_STABBING', 'marks': 22, 'rows': 20, 'max_depth': 6, 'erosion': '1/100000'}
+Excluded class 37fffe
+Excluded class 37fffb
+Excluded class 2ffffe
+Excluded class 3dfffb
+Excluded class 3bfffb
+Excluded class 3effdf
+Excluded class 3efffb
+Excluded class 3dfffe
+Excluded class 3f7fdf
+Excluded class 3efffe
+Excluded class 3f7ffe
+Excluded class 3f7ff7
+Excluded class 3f7ffb
+Excluded class 3fbfdf
+Excluded class 3fbffe
+Excluded class 3fbffb
+Excluded class 3fdfdf
+Excluded class 3fdffb
+Excluded class 3fdf7f
+Excluded class 3fef7f
+Excluded class 3fdffe
+Excluded class 3fefdf
+Excluded class 3feff7
+Excluded class 3feffb
+Excluded class 3feffe
+Excluded class 3fbf7f
+Excluded class 1ffffe
+Excluded class 3ff7df
+Excluded class 3ff7fb
+Excluded class 3ff7fe
+Excluded class 3bfffe
+Excluded class 3ffbdf
+Excluded class 3ffbf7
+Excluded class 3fdeff
+Excluded class 3ffbfb
+Excluded class 3ffb7f
+Excluded class 3ff77f
+Excluded class 3ffbfe
+Excluded class 3ffaff
+Excluded class 3ffddf
+Excluded class 3ffdfb
+Excluded class 3ffdfe
+Excluded class 3fdff7
+Excluded class 3ffedf
+Excluded class 3ffef7
+Excluded class 3ffefb
+Excluded class 3ffefe
+Excluded class 3fff5f
+Excluded class 3fff7b
+Excluded class 3fff77
+Excluded class 3fff7e
+Excluded class 3fff9f
+Excluded class 3ffd7f
+Excluded class 3fffbb
+Excluded class 3fffbe
+Excluded class 3fffd7
+Excluded class 3fffdb
+Excluded class 3fffde
+Excluded class 3fffeb
+Excluded class 3ffe7f
+Excluded class 3ffff3
+Excluded class 3fffee
+Excluded class 3ffffa
+Excluded class 3ffff6
+Excluded class 3ff3ff
+Excluded class 3ffffc
+Excluded class 3bfff7
+{
+  "theorem": "s(20) > 99/20",
+  "marks": 22,
+  "vacancy_pairs": 231,
+  "classes": 67,
+  "terminal_regions": 75,
+  "verdicts": {
+    "C1": 4,
+    "F1": 70,
+    "F2": 1
+  },
+  "feasible_control": 16,
+  "verdict_sha256": "bd1877fc8a8348ed0f36a18f5827371f6ef0732828ac55dac4461aeb258f3048",
+  "upstream_commit": "78bec6aacebf304d942a9225e16c2f18165778ff",
+  "pinned_cover_intervals": 20,
+  "independent_cover_intervals": 17
+}
+Saved verified certificate and archive in /home/claude/n20run/n20-replay
+exit=0
